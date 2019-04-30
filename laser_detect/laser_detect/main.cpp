@@ -30,6 +30,8 @@
 #include "rplidar.h" //RPLIDAR standard sdk, all-in-one header
 
 
+
+
 #ifndef _countof
 #define _countof(_Array) (int)(sizeof(_Array) / sizeof(_Array[0]))
 #endif
@@ -50,6 +52,9 @@ static inline void delay(_word_size_t ms) {
 #endif
 
 using namespace rp::standalone::rplidar;
+
+//my funtion prototype
+u_result new_display(RPlidarDriver * drv);
 
 void print_usage(int argc, const char * argv[])
 {
@@ -244,7 +249,7 @@ int main(int argc, const char * argv[]) {
 			break;
 		}
 
-		if (IS_FAIL(capture_and_display(drv))) {
+		if (IS_FAIL(new_display(drv))) {
 			fprintf(stderr, "Error, cannot grab scan data.\n");
 			break;
 
