@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laser_detect", "laser_detect\laser_detect.vcxproj", "{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rplidar_driver", "..\..\..\学习\研究生项目\2019-4-11\rplidar_driver\rplidar_driver.vcxproj", "{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Debug|x64.ActiveCfg = Debug|x64
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Debug|x64.Build.0 = Debug|x64
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Debug|x86.Build.0 = Debug|Win32
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Release|x64.ActiveCfg = Release|x64
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Release|x64.Build.0 = Release|x64
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Release|x86.ActiveCfg = Release|Win32
+		{1E85FD6F-A62B-4840-85CC-0B68D652DEA5}.Release|x86.Build.0 = Release|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x64.ActiveCfg = Debug|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Debug|x86.Build.0 = Debug|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x64.ActiveCfg = Release|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x86.ActiveCfg = Release|Win32
+		{1F0AA469-8A8F-4ADA-931D-967D2C5996DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
