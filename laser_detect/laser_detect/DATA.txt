@@ -1,1780 +1,1725 @@
-theta: 0.125	 distance:0
-theta: 0.53125	 distance:0
-theta: 0.734375	 distance:0
-theta: 0.9375	 distance:0
-theta: 1.14063	 distance:0
-theta: 1.34375	 distance:0
-theta: 1.54688	 distance:0
-theta: 1.75	 distance:0
-theta: 1.95313	 distance:0
-theta: 2.15625	 distance:0
-theta: 2.35938	 distance:0
-theta: 2.5625	 distance:0
-theta: 2.76563	 distance:0
-theta: 2.96875	 distance:0
-theta: 3.17188	 distance:0
-theta: 3.375	 distance:0
-theta: 3.57813	 distance:0
-theta: 3.71875	 distance:145
-theta: 3.76563	 distance:0
-theta: 3.92188	 distance:145
-theta: 3.96875	 distance:0
-theta: 4.125	 distance:145
-theta: 4.17188	 distance:0
-theta: 4.3125	 distance:145
-theta: 4.375	 distance:0
-theta: 4.51563	 distance:145
-theta: 4.57813	 distance:0
-theta: 4.76563	 distance:144
-theta: 4.78125	 distance:0
-theta: 4.96875	 distance:144
-theta: 4.98438	 distance:0
-theta: 5.17188	 distance:144
-theta: 5.1875	 distance:0
-theta: 5.35938	 distance:144
-theta: 5.39063	 distance:0
-theta: 5.5625	 distance:144
-theta: 5.59375	 distance:0
-theta: 5.76563	 distance:144
-theta: 5.79688	 distance:0
-theta: 5.96875	 distance:144
-theta: 6	 distance:0
-theta: 6.15625	 distance:144
-theta: 6.20313	 distance:0
-theta: 6.35938	 distance:144
-theta: 6.40625	 distance:0
-theta: 6.5625	 distance:144
-theta: 6.60938	 distance:0
-theta: 6.8125	 distance:0
-theta: 6.95313	 distance:144
-theta: 7.01563	 distance:0
-theta: 7.21875	 distance:0
-theta: 7.40625	 distance:0
-theta: 7.54688	 distance:144
-theta: 7.60938	 distance:0
-theta: 7.8125	 distance:0
-theta: 8.01563	 distance:0
-theta: 8.14063	 distance:144
-theta: 8.21875	 distance:0
-theta: 8.42188	 distance:0
-theta: 8.625	 distance:0
-theta: 8.73438	 distance:144
-theta: 8.82813	 distance:0
-theta: 9.03125	 distance:0
-theta: 9.23438	 distance:0
-theta: 9.4375	 distance:0
-theta: 9.64063	 distance:0
-theta: 9.84375	 distance:0
-theta: 10.0469	 distance:0
-theta: 10.25	 distance:0
-theta: 10.4531	 distance:0
-theta: 10.6563	 distance:0
-theta: 10.8594	 distance:0
-theta: 11.0469	 distance:0
-theta: 11.25	 distance:0
-theta: 11.4531	 distance:0
-theta: 11.6563	 distance:0
-theta: 11.8594	 distance:0
-theta: 12.0625	 distance:0
-theta: 12.2656	 distance:0
-theta: 12.4688	 distance:0
-theta: 12.6719	 distance:0
-theta: 12.875	 distance:0
-theta: 13.0781	 distance:0
-theta: 13.2813	 distance:0
-theta: 13.4844	 distance:0
-theta: 13.6875	 distance:0
-theta: 13.8906	 distance:0
-theta: 14.0938	 distance:0
-theta: 14.2969	 distance:0
-theta: 14.4844	 distance:0
-theta: 14.6875	 distance:0
-theta: 14.8906	 distance:0
-theta: 15.0938	 distance:0
-theta: 15.2969	 distance:0
-theta: 15.5	 distance:0
-theta: 15.7031	 distance:0
-theta: 15.9063	 distance:0
-theta: 16.1094	 distance:0
-theta: 16.3125	 distance:0
-theta: 16.5156	 distance:0
-theta: 16.7188	 distance:0
-theta: 16.9219	 distance:0
-theta: 17.125	 distance:0
-theta: 17.5313	 distance:0
-theta: 17.7344	 distance:0
-theta: 18.125	 distance:0
-theta: 18.3281	 distance:0
-theta: 18.9375	 distance:0
-theta: 19.3438	 distance:0
-theta: 19.5469	 distance:0
-theta: 19.9531	 distance:0
-theta: 25.5	 distance:143
-theta: 26.1094	 distance:143
-theta: 26.7188	 distance:143
-theta: 26.8438	 distance:144
-theta: 27.25	 distance:144
-theta: 27.8438	 distance:144
-theta: 28.25	 distance:144
-theta: 28.4531	 distance:144
-theta: 28.6406	 distance:144
-theta: 28.8438	 distance:144
-theta: 29.0469	 distance:144
-theta: 29.25	 distance:144
-theta: 29.4375	 distance:144
-theta: 29.6406	 distance:144
-theta: 29.8438	 distance:144
-theta: 30.0469	 distance:144
-theta: 30.25	 distance:144
-theta: 30.4375	 distance:144
-theta: 30.6406	 distance:144
-theta: 30.8438	 distance:144
-theta: 31.0469	 distance:144
-theta: 31.25	 distance:144
-theta: 31.4375	 distance:144
-theta: 31.5781	 distance:145
-theta: 31.7813	 distance:145
-theta: 31.9844	 distance:145
-theta: 32.1875	 distance:145
-theta: 32.3906	 distance:145
-theta: 32.5781	 distance:145
-theta: 32.7813	 distance:145
-theta: 32.9844	 distance:145
-theta: 33.1875	 distance:145
-theta: 33.3906	 distance:145
-theta: 33.5781	 distance:145
-theta: 33.7813	 distance:145
-theta: 33.9844	 distance:145
-theta: 34.1875	 distance:145
-theta: 34.375	 distance:145
-theta: 34.5781	 distance:145
-theta: 34.7813	 distance:145
-theta: 34.9219	 distance:146
-theta: 35.125	 distance:146
-theta: 35.3281	 distance:146
-theta: 35.5156	 distance:146
-theta: 35.7188	 distance:146
-theta: 35.9219	 distance:146
-theta: 36.125	 distance:146
-theta: 36.3281	 distance:146
-theta: 36.5313	 distance:146
-theta: 36.7188	 distance:146
-theta: 36.9219	 distance:146
-theta: 37.0625	 distance:147
-theta: 37.2656	 distance:147
-theta: 37.4688	 distance:147
-theta: 37.6719	 distance:147
-theta: 37.875	 distance:147
-theta: 38.0781	 distance:147
-theta: 38.2656	 distance:147
-theta: 38.4688	 distance:147
-theta: 38.6719	 distance:147
-theta: 38.8125	 distance:148
-theta: 39.0156	 distance:148
-theta: 39.2188	 distance:148
-theta: 39.4219	 distance:148
-theta: 39.625	 distance:148
-theta: 39.8281	 distance:148
-theta: 40.0156	 distance:148
-theta: 40.2188	 distance:148
-theta: 40.3594	 distance:149
-theta: 40.5625	 distance:149
-theta: 40.7813	 distance:149
-theta: 40.9688	 distance:149
-theta: 41.1719	 distance:149
-theta: 41.375	 distance:149
-theta: 41.4531	 distance:150
-theta: 41.6563	 distance:150
-theta: 41.8594	 distance:150
-theta: 42.0625	 distance:150
-theta: 42.2656	 distance:150
-theta: 42.4688	 distance:150
-theta: 42.6563	 distance:150
-theta: 42.8125	 distance:151
-theta: 43	 distance:151
-theta: 43.2031	 distance:151
-theta: 43.4063	 distance:151
-theta: 43.6094	 distance:151
-theta: 43.8125	 distance:151
-theta: 44.0156	 distance:151
-theta: 44.2031	 distance:151
-theta: 44.4063	 distance:151
-theta: 44.5625	 distance:152
-theta: 44.75	 distance:152
-theta: 44.9531	 distance:152
-theta: 45.1563	 distance:152
-theta: 45.2969	 distance:153
-theta: 45.5	 distance:153
-theta: 45.7031	 distance:153
-theta: 45.9063	 distance:153
-theta: 46.1094	 distance:153
-theta: 46.25	 distance:154
-theta: 46.4531	 distance:154
-theta: 46.6563	 distance:154
-theta: 46.8438	 distance:154
-theta: 47	 distance:155
-theta: 47.2031	 distance:155
-theta: 47.3906	 distance:155
-theta: 47.5469	 distance:156
-theta: 47.7344	 distance:156
-theta: 47.9375	 distance:156
-theta: 48.1406	 distance:156
-theta: 48.3438	 distance:156
-theta: 48.4844	 distance:157
-theta: 48.6875	 distance:157
-theta: 48.8281	 distance:158
-theta: 49.0313	 distance:158
-theta: 49.2344	 distance:158
-theta: 49.4375	 distance:158
-theta: 49.5781	 distance:159
-theta: 49.7813	 distance:159
-theta: 49.8906	 distance:0
-theta: 49.9844	 distance:159
-theta: 50.1875	 distance:159
-theta: 50.2969	 distance:0
-theta: 50.3281	 distance:160
-theta: 50.4844	 distance:0
-theta: 50.5313	 distance:160
-theta: 50.7188	 distance:160
-theta: 50.875	 distance:161
-theta: 50.8906	 distance:0
-theta: 51.0625	 distance:161
-theta: 51.0938	 distance:0
-theta: 51.2656	 distance:161
-theta: 51.2969	 distance:0
-theta: 51.4219	 distance:162
-theta: 51.5	 distance:0
-theta: 51.6094	 distance:162
-theta: 51.7031	 distance:0
-theta: 51.8125	 distance:162
-theta: 51.9063	 distance:0
-theta: 51.9531	 distance:163
-theta: 52.1094	 distance:0
-theta: 52.1563	 distance:163
-theta: 52.3125	 distance:0
-theta: 52.3594	 distance:163
-theta: 52.5156	 distance:0
-theta: 52.5625	 distance:163
-theta: 52.7031	 distance:164
-theta: 52.7188	 distance:0
-theta: 52.9063	 distance:164
-theta: 52.9219	 distance:0
-theta: 53.1094	 distance:164
-theta: 53.3125	 distance:165
-theta: 53.5156	 distance:165
-theta: 53.6563	 distance:166
-theta: 53.8594	 distance:166
-theta: 54.0469	 distance:166
-theta: 54.25	 distance:166
-theta: 54.4063	 distance:167
-theta: 54.5938	 distance:167
-theta: 54.7344	 distance:168
-theta: 54.9375	 distance:168
-theta: 55.1406	 distance:168
-theta: 55.2813	 distance:169
-theta: 55.4844	 distance:169
-theta: 55.6875	 distance:169
-theta: 55.8281	 distance:170
-theta: 56.0313	 distance:170
-theta: 56.375	 distance:171
-theta: 56.9219	 distance:172
-theta: 57.5781	 distance:0
-theta: 57.7656	 distance:0
-theta: 57.9688	 distance:0
-theta: 58.1719	 distance:0
-theta: 58.375	 distance:0
-theta: 58.5781	 distance:0
-theta: 58.7813	 distance:0
-theta: 58.9844	 distance:0
-theta: 59.0313	 distance:179
-theta: 59.1719	 distance:180
-theta: 59.1875	 distance:0
-theta: 59.3125	 distance:181
-theta: 59.3906	 distance:0
-theta: 59.5156	 distance:182
-theta: 59.5938	 distance:0
-theta: 59.7188	 distance:182
-theta: 59.7969	 distance:0
-theta: 59.8594	 distance:183
-theta: 60	 distance:0
-theta: 60.0625	 distance:183
-theta: 60.2031	 distance:0
-theta: 60.2031	 distance:184
-theta: 60.4063	 distance:0
-theta: 60.4063	 distance:184
-theta: 60.5469	 distance:185
-theta: 60.6094	 distance:0
-theta: 60.75	 distance:186
-theta: 60.8125	 distance:0
-theta: 60.9531	 distance:186
-theta: 61.0156	 distance:0
-theta: 61.0938	 distance:187
-theta: 61.2188	 distance:0
-theta: 61.2344	 distance:188
-theta: 61.4063	 distance:0
-theta: 61.4375	 distance:188
-theta: 61.6406	 distance:189
-theta: 61.7813	 distance:190
-theta: 61.9219	 distance:191
-theta: 62.125	 distance:191
-theta: 62.3125	 distance:192
-theta: 62.4063	 distance:194
-theta: 62.6094	 distance:195
-theta: 63.6406	 distance:0
-theta: 63.8438	 distance:0
-theta: 64.0469	 distance:0
-theta: 64.25	 distance:0
-theta: 64.4531	 distance:0
-theta: 66.3594	 distance:207
-theta: 66.5469	 distance:208
-theta: 66.7031	 distance:209
-theta: 66.8906	 distance:210
-theta: 67.0938	 distance:210
-theta: 67.2969	 distance:209
-theta: 67.5469	 distance:207
-theta: 67.8125	 distance:205
-theta: 68.125	 distance:203
-theta: 68.3281	 distance:202
-theta: 68.625	 distance:234
-theta: 68.8125	 distance:232
-theta: 69.0781	 distance:230
-theta: 69.0938	 distance:0
-theta: 69.2969	 distance:0
-theta: 69.3906	 distance:227
-theta: 69.5	 distance:0
-theta: 69.6094	 distance:226
-theta: 69.7031	 distance:0
-theta: 69.8438	 distance:225
-theta: 69.9063	 distance:0
-theta: 69.9844	 distance:226
-theta: 70.1094	 distance:0
-theta: 70.1875	 distance:227
-theta: 70.3125	 distance:0
-theta: 70.3906	 distance:227
-theta: 70.5156	 distance:0
-theta: 70.5313	 distance:229
-theta: 70.6719	 distance:230
-theta: 70.875	 distance:230
-theta: 70.9219	 distance:0
-theta: 71.0781	 distance:230
-theta: 71.125	 distance:0
-theta: 71.2813	 distance:230
-theta: 71.3281	 distance:0
-theta: 71.5313	 distance:229
-theta: 71.5313	 distance:0
-theta: 71.7344	 distance:228
-theta: 72	 distance:227
-theta: 72.1875	 distance:226
-theta: 72.4531	 distance:225
-theta: 72.6563	 distance:224
-theta: 72.9063	 distance:223
-theta: 73.125	 distance:223
-theta: 73.3438	 distance:0
-theta: 73.5469	 distance:0
-theta: 73.8594	 distance:268
-theta: 73.9531	 distance:0
-theta: 74.1563	 distance:0
-theta: 74.3594	 distance:0
-theta: 74.5625	 distance:0
-theta: 74.7656	 distance:0
-theta: 74.875	 distance:270
-theta: 74.9688	 distance:0
-theta: 75.0781	 distance:269
-theta: 75.3906	 distance:264
-theta: 75.6406	 distance:261
-theta: 75.7813	 distance:262
-theta: 75.9844	 distance:264
-theta: 76.1406	 distance:265
-theta: 76.3438	 distance:267
-theta: 76.8906	 distance:269
-theta: 78.2344	 distance:273
-theta: 78.3281	 distance:278
-theta: 78.4688	 distance:281
-theta: 78.625	 distance:284
-theta: 78.8125	 distance:0
-theta: 78.8281	 distance:285
-theta: 78.9688	 distance:287
-theta: 79.0156	 distance:0
-theta: 79.1719	 distance:289
-theta: 79.2188	 distance:0
-theta: 79.3125	 distance:290
-theta: 79.4063	 distance:0
-theta: 79.5156	 distance:292
-theta: 79.6094	 distance:0
-theta: 79.6563	 distance:294
-theta: 79.8125	 distance:0
-theta: 79.8594	 distance:296
-theta: 80.0156	 distance:0
-theta: 80.0156	 distance:297
-theta: 80.2188	 distance:0
-theta: 80.2188	 distance:298
-theta: 80.3594	 distance:300
-theta: 80.4219	 distance:0
-theta: 80.5625	 distance:303
-theta: 80.625	 distance:0
-theta: 80.7031	 distance:305
-theta: 80.8281	 distance:0
-theta: 80.9063	 distance:306
-theta: 81.0313	 distance:0
-theta: 81.0469	 distance:309
-theta: 81.2344	 distance:0
-theta: 81.4375	 distance:0
-theta: 81.8438	 distance:0
-theta: 82.0469	 distance:0
-theta: 82.25	 distance:0
-theta: 82.4531	 distance:0
-theta: 83.6563	 distance:0
-theta: 83.7969	 distance:328
-theta: 83.8594	 distance:0
-theta: 84.0625	 distance:0
-theta: 84.2656	 distance:0
-theta: 84.4688	 distance:0
-theta: 84.6406	 distance:343
-theta: 84.6719	 distance:0
-theta: 84.8438	 distance:343
-theta: 84.875	 distance:0
-theta: 85.0469	 distance:342
-theta: 85.0781	 distance:0
-theta: 85.2344	 distance:342
-theta: 85.2813	 distance:0
-theta: 85.4375	 distance:344
-theta: 85.4844	 distance:0
-theta: 85.6875	 distance:0
-theta: 85.8906	 distance:0
-theta: 86.0938	 distance:0
-theta: 86.2969	 distance:0
-theta: 86.4844	 distance:0
-theta: 86.6875	 distance:0
-theta: 86.8906	 distance:0
-theta: 87.0938	 distance:0
-theta: 87.2969	 distance:0
-theta: 87.5	 distance:0
-theta: 87.7031	 distance:0
-theta: 87.9063	 distance:0
-theta: 88.1094	 distance:0
-theta: 88.3125	 distance:0
-theta: 88.5156	 distance:0
-theta: 88.7188	 distance:0
-theta: 88.9219	 distance:0
-theta: 89.125	 distance:0
-theta: 89.3281	 distance:0
-theta: 89.5313	 distance:0
-theta: 89.7344	 distance:0
-theta: 89.9375	 distance:0
-theta: 90.125	 distance:0
-theta: 90.3281	 distance:0
-theta: 90.5313	 distance:0
-theta: 90.7344	 distance:0
-theta: 90.9375	 distance:0
-theta: 91.1406	 distance:0
-theta: 91.3438	 distance:0
-theta: 91.5469	 distance:0
-theta: 91.75	 distance:0
-theta: 91.9531	 distance:0
-theta: 92.1563	 distance:0
-theta: 92.3594	 distance:0
-theta: 92.5625	 distance:0
-theta: 92.7656	 distance:0
-theta: 92.9688	 distance:0
-theta: 93.1719	 distance:0
-theta: 93.375	 distance:0
-theta: 93.5781	 distance:0
-theta: 93.7656	 distance:0
-theta: 93.9688	 distance:0
-theta: 94.1719	 distance:0
-theta: 94.375	 distance:0
-theta: 94.5781	 distance:0
-theta: 94.7813	 distance:0
-theta: 94.9844	 distance:0
-theta: 95.1875	 distance:0
-theta: 95.3906	 distance:0
-theta: 95.5938	 distance:0
-theta: 95.7969	 distance:0
-theta: 96	 distance:0
-theta: 96.2031	 distance:0
-theta: 96.4063	 distance:0
-theta: 96.6094	 distance:0
-theta: 96.8125	 distance:0
-theta: 97.0156	 distance:0
-theta: 97.2188	 distance:0
-theta: 97.4063	 distance:0
-theta: 97.6094	 distance:0
-theta: 97.8125	 distance:0
-theta: 98.0156	 distance:0
-theta: 98.2188	 distance:0
-theta: 98.4219	 distance:0
-theta: 98.625	 distance:0
-theta: 98.8281	 distance:0
-theta: 99.0313	 distance:0
-theta: 99.2344	 distance:0
-theta: 99.4375	 distance:0
-theta: 99.6406	 distance:0
-theta: 99.8438	 distance:0
-theta: 100.047	 distance:0
-theta: 100.25	 distance:0
-theta: 100.453	 distance:0
-theta: 100.656	 distance:0
-theta: 100.859	 distance:0
-theta: 101.047	 distance:0
-theta: 101.25	 distance:0
-theta: 101.453	 distance:0
-theta: 101.656	 distance:0
-theta: 101.859	 distance:0
-theta: 102.063	 distance:0
-theta: 102.266	 distance:0
-theta: 102.469	 distance:0
-theta: 102.672	 distance:0
-theta: 102.875	 distance:0
-theta: 103.078	 distance:0
-theta: 103.281	 distance:0
-theta: 103.484	 distance:0
-theta: 103.688	 distance:0
-theta: 103.891	 distance:0
-theta: 104.094	 distance:0
-theta: 104.297	 distance:0
-theta: 104.484	 distance:0
-theta: 104.688	 distance:0
-theta: 104.891	 distance:0
-theta: 105.094	 distance:0
-theta: 105.297	 distance:0
-theta: 105.5	 distance:0
-theta: 105.703	 distance:0
-theta: 105.906	 distance:0
-theta: 106.109	 distance:0
-theta: 106.313	 distance:0
-theta: 106.516	 distance:0
-theta: 106.719	 distance:0
-theta: 106.922	 distance:0
-theta: 107.125	 distance:0
-theta: 107.328	 distance:0
-theta: 107.531	 distance:0
-theta: 107.734	 distance:0
-theta: 107.938	 distance:0
-theta: 108.125	 distance:0
-theta: 108.328	 distance:0
-theta: 108.531	 distance:0
-theta: 108.734	 distance:0
-theta: 108.938	 distance:0
-theta: 109.141	 distance:0
-theta: 109.344	 distance:0
-theta: 109.547	 distance:0
-theta: 109.75	 distance:0
-theta: 109.953	 distance:0
-theta: 110.156	 distance:0
-theta: 110.359	 distance:0
-theta: 110.563	 distance:0
-theta: 110.766	 distance:0
-theta: 110.969	 distance:0
-theta: 111.172	 distance:0
-theta: 111.375	 distance:0
-theta: 111.578	 distance:0
-theta: 111.766	 distance:0
-theta: 111.969	 distance:0
-theta: 112.172	 distance:0
-theta: 112.375	 distance:0
-theta: 112.578	 distance:0
-theta: 112.781	 distance:0
-theta: 112.984	 distance:0
-theta: 113.188	 distance:0
-theta: 113.391	 distance:0
-theta: 113.594	 distance:0
-theta: 113.797	 distance:0
-theta: 114	 distance:0
-theta: 114.203	 distance:0
-theta: 114.406	 distance:0
-theta: 114.609	 distance:0
-theta: 114.813	 distance:0
-theta: 115.016	 distance:0
-theta: 115.219	 distance:0
-theta: 116.609	 distance:405
-theta: 116.859	 distance:401
-theta: 117.063	 distance:399
-theta: 117.266	 distance:397
-theta: 117.516	 distance:394
-theta: 117.641	 distance:0
-theta: 117.781	 distance:390
-theta: 117.844	 distance:0
-theta: 117.969	 distance:386
-theta: 118.234	 distance:380
-theta: 118.25	 distance:0
-theta: 118.453	 distance:0
-theta: 118.547	 distance:371
-theta: 118.797	 distance:363
-theta: 119.063	 distance:358
-theta: 119.719	 distance:356
-theta: 119.984	 distance:390
-theta: 120.188	 distance:388
-theta: 120.375	 distance:386
-theta: 120.641	 distance:381
-theta: 120.891	 distance:377
-theta: 121.094	 distance:375
-theta: 121.297	 distance:374
-theta: 121.5	 distance:374
-theta: 121.703	 distance:374
-theta: 121.891	 distance:374
-theta: 122.094	 distance:375
-theta: 122.297	 distance:375
-theta: 122.5	 distance:375
-theta: 122.703	 distance:376
-theta: 122.906	 distance:376
-theta: 123.094	 distance:376
-theta: 123.297	 distance:376
-theta: 123.5	 distance:377
-theta: 123.703	 distance:377
-theta: 123.906	 distance:378
-theta: 124.109	 distance:378
-theta: 124.297	 distance:378
-theta: 124.5	 distance:378
-theta: 124.641	 distance:379
-theta: 124.844	 distance:379
-theta: 125.047	 distance:380
-theta: 125.25	 distance:380
-theta: 125.453	 distance:381
-theta: 125.656	 distance:381
-theta: 125.859	 distance:381
-theta: 126.047	 distance:382
-theta: 126.25	 distance:382
-theta: 126.453	 distance:382
-theta: 126.656	 distance:383
-theta: 126.859	 distance:383
-theta: 127.063	 distance:384
-theta: 127.266	 distance:384
-theta: 127.406	 distance:385
-theta: 127.609	 distance:385
-theta: 127.813	 distance:386
-theta: 128.016	 distance:386
-theta: 128.219	 distance:386
-theta: 128.422	 distance:387
-theta: 128.625	 distance:388
-theta: 128.828	 distance:388
-theta: 129.031	 distance:388
-theta: 129.234	 distance:389
-theta: 129.438	 distance:390
-theta: 129.625	 distance:390
-theta: 129.766	 distance:0
-theta: 129.781	 distance:391
-theta: 129.969	 distance:0
-theta: 129.984	 distance:391
-theta: 130.188	 distance:392
-theta: 130.375	 distance:0
-theta: 130.391	 distance:393
-theta: 130.578	 distance:0
-theta: 130.594	 distance:393
-theta: 130.781	 distance:0
-theta: 130.797	 distance:394
-theta: 130.984	 distance:0
-theta: 131.188	 distance:0
-theta: 131.391	 distance:0
-theta: 131.594	 distance:0
-theta: 131.625	 distance:371
-theta: 131.797	 distance:0
-theta: 132	 distance:0
-theta: 133.703	 distance:367
-theta: 133.906	 distance:366
-theta: 134.156	 distance:360
-theta: 134.422	 distance:352
-theta: 134.672	 distance:347
-theta: 134.938	 distance:342
-theta: 135.188	 distance:338
-theta: 135.391	 distance:337
-theta: 135.594	 distance:338
-theta: 135.797	 distance:338
-theta: 136	 distance:339
-theta: 136.203	 distance:339
-theta: 136.406	 distance:338
-theta: 136.672	 distance:336
-theta: 136.875	 distance:334
-theta: 137.125	 distance:331
-theta: 137.328	 distance:330
-theta: 137.531	 distance:328
-theta: 137.813	 distance:326
-theta: 138	 distance:324
-theta: 138.25	 distance:322
-theta: 138.516	 distance:319
-theta: 138.719	 distance:316
-theta: 138.969	 distance:313
-theta: 139.234	 distance:311
-theta: 139.438	 distance:309
-theta: 139.688	 distance:307
-theta: 139.891	 distance:305
-theta: 140.156	 distance:303
-theta: 140.359	 distance:301
-theta: 140.625	 distance:299
-theta: 140.813	 distance:297
-theta: 141.078	 distance:295
-theta: 141.281	 distance:293
-theta: 141.531	 distance:292
-theta: 141.734	 distance:290
-theta: 142	 distance:288
-theta: 142.203	 distance:287
-theta: 142.453	 distance:285
-theta: 142.656	 distance:283
-theta: 142.922	 distance:281
-theta: 143.172	 distance:279
-theta: 143.375	 distance:277
-theta: 143.641	 distance:276
-theta: 143.844	 distance:274
-theta: 144.094	 distance:273
-theta: 144.297	 distance:271
-theta: 144.563	 distance:270
-theta: 144.75	 distance:268
-theta: 145.016	 distance:266
-theta: 145.219	 distance:265
-theta: 145.484	 distance:264
-theta: 145.672	 distance:263
-theta: 145.938	 distance:261
-theta: 146.141	 distance:260
-theta: 146.391	 distance:258
-theta: 146.656	 distance:256
-theta: 146.859	 distance:255
-theta: 147.063	 distance:254
-theta: 147.313	 distance:253
-theta: 147.516	 distance:252
-theta: 147.719	 distance:251
-theta: 147.984	 distance:250
-theta: 148.188	 distance:249
-theta: 148.438	 distance:247
-theta: 148.703	 distance:245
-theta: 148.906	 distance:244
-theta: 149.172	 distance:243
-theta: 149.375	 distance:242
-theta: 149.625	 distance:241
-theta: 149.828	 distance:240
-theta: 150.031	 distance:239
-theta: 150.297	 distance:238
-theta: 150.547	 distance:236
-theta: 150.75	 distance:235
-theta: 151.016	 distance:234
-theta: 151.219	 distance:233
-theta: 151.422	 distance:232
-theta: 151.672	 distance:231
-theta: 151.875	 distance:230
-theta: 152.141	 distance:229
-theta: 152.344	 distance:228
-theta: 152.594	 distance:227
-theta: 152.797	 distance:226
-theta: 153.063	 distance:225
-theta: 153.281	 distance:225
-theta: 153.469	 distance:224
-theta: 153.719	 distance:223
-theta: 153.922	 distance:222
-theta: 154.188	 distance:220
-theta: 154.391	 distance:220
-theta: 154.641	 distance:219
-theta: 154.844	 distance:218
-theta: 155.109	 distance:217
-theta: 155.313	 distance:217
-theta: 155.516	 distance:216
-theta: 155.766	 distance:215
-theta: 155.969	 distance:214
-theta: 156.234	 distance:213
-theta: 156.438	 distance:212
-theta: 156.688	 distance:211
-theta: 156.891	 distance:211
-theta: 157.156	 distance:210
-theta: 157.359	 distance:209
-theta: 157.609	 distance:208
-theta: 157.813	 distance:207
-theta: 158.078	 distance:206
-theta: 158.281	 distance:206
-theta: 158.484	 distance:205
-theta: 158.734	 distance:204
-theta: 159	 distance:203
-theta: 159.203	 distance:203
-theta: 159.406	 distance:203
-theta: 159.609	 distance:202
-theta: 159.859	 distance:201
-theta: 160.063	 distance:200
-theta: 160.266	 distance:200
-theta: 160.531	 distance:199
-theta: 160.781	 distance:198
-theta: 160.984	 distance:198
-theta: 161.188	 distance:197
-theta: 161.391	 distance:197
-theta: 161.656	 distance:196
-theta: 161.906	 distance:195
-theta: 162.109	 distance:195
-theta: 162.313	 distance:194
-theta: 162.578	 distance:193
-theta: 162.828	 distance:192
-theta: 163.031	 distance:192
-theta: 163.234	 distance:191
-theta: 163.438	 distance:191
-theta: 163.703	 distance:190
-theta: 163.75	 distance:0
-theta: 163.953	 distance:189
-theta: 163.953	 distance:0
-theta: 164.156	 distance:189
-theta: 164.156	 distance:0
-theta: 164.359	 distance:188
-theta: 164.359	 distance:0
-theta: 164.563	 distance:188
-theta: 164.563	 distance:0
-theta: 164.766	 distance:0
-theta: 164.828	 distance:187
-theta: 164.969	 distance:0
-theta: 165.078	 distance:186
-theta: 165.172	 distance:0
-theta: 165.281	 distance:186
-theta: 165.375	 distance:0
-theta: 165.484	 distance:186
-theta: 165.578	 distance:0
-theta: 165.688	 distance:185
-theta: 165.766	 distance:0
-theta: 165.953	 distance:184
-theta: 166.203	 distance:183
-theta: 166.406	 distance:183
-theta: 166.672	 distance:182
-theta: 166.875	 distance:182
-theta: 167.078	 distance:181
-theta: 167.281	 distance:181
-theta: 167.531	 distance:180
-theta: 167.734	 distance:180
-theta: 168	 distance:179
-theta: 168.203	 distance:179
-theta: 168.453	 distance:178
-theta: 168.656	 distance:178
-theta: 168.859	 distance:177
-theta: 169.063	 distance:177
-theta: 171.781	 distance:171
-theta: 171.922	 distance:172
-theta: 172.188	 distance:171
-theta: 172.391	 distance:171
-theta: 172.641	 distance:170
-theta: 172.844	 distance:170
-theta: 173.109	 distance:169
-theta: 173.313	 distance:169
-theta: 173.516	 distance:169
-theta: 173.719	 distance:169
-theta: 173.922	 distance:169
-theta: 174.125	 distance:169
-theta: 174.375	 distance:168
-theta: 174.578	 distance:168
-theta: 174.844	 distance:167
-theta: 175.109	 distance:166
-theta: 175.313	 distance:166
-theta: 175.5	 distance:166
-theta: 175.703	 distance:166
-theta: 175.906	 distance:166
-theta: 176.109	 distance:166
-theta: 176.313	 distance:166
-theta: 176.578	 distance:165
-theta: 176.781	 distance:165
-theta: 176.984	 distance:164
-theta: 177.188	 distance:164
-theta: 177.391	 distance:164
-theta: 177.594	 distance:164
-theta: 177.797	 distance:164
-theta: 178	 distance:164
-theta: 178.25	 distance:163
-theta: 178.453	 distance:163
-theta: 178.656	 distance:163
-theta: 178.859	 distance:163
-theta: 179.125	 distance:162
-theta: 179.328	 distance:162
-theta: 179.531	 distance:162
-theta: 179.734	 distance:162
-theta: 179.938	 distance:162
-theta: 180.141	 distance:162
-theta: 180.391	 distance:161
-theta: 180.594	 distance:161
-theta: 180.797	 distance:161
-theta: 181	 distance:161
-theta: 181.203	 distance:161
-theta: 181.406	 distance:161
-theta: 181.609	 distance:161
-theta: 181.875	 distance:160
-theta: 182.078	 distance:160
-theta: 182.281	 distance:160
-theta: 182.484	 distance:160
-theta: 182.688	 distance:160
-theta: 182.891	 distance:160
-theta: 183.141	 distance:159
-theta: 183.344	 distance:159
-theta: 183.547	 distance:159
-theta: 183.75	 distance:159
-theta: 183.953	 distance:159
-theta: 184.156	 distance:159
-theta: 184.359	 distance:159
-theta: 184.563	 distance:159
-theta: 184.813	 distance:158
-theta: 185.016	 distance:158
-theta: 185.219	 distance:158
-theta: 185.422	 distance:158
-theta: 185.625	 distance:158
-theta: 185.828	 distance:158
-theta: 186.031	 distance:158
-theta: 186.297	 distance:157
-theta: 186.5	 distance:157
-theta: 186.703	 distance:157
-theta: 186.906	 distance:157
-theta: 187.109	 distance:157
-theta: 187.313	 distance:157
-theta: 187.516	 distance:157
-theta: 187.734	 distance:157
-theta: 187.922	 distance:157
-theta: 188.125	 distance:157
-theta: 188.328	 distance:157
-theta: 188.578	 distance:156
-theta: 188.781	 distance:156
-theta: 188.984	 distance:156
-theta: 189.188	 distance:156
-theta: 189.391	 distance:156
-theta: 189.594	 distance:156
-theta: 189.859	 distance:155
-theta: 190.063	 distance:155
-theta: 190.266	 distance:155
-theta: 190.516	 distance:154
-theta: 190.781	 distance:153
-theta: 191.031	 distance:152
-theta: 191.25	 distance:152
-theta: 191.438	 distance:152
-theta: 191.578	 distance:153
-theta: 191.781	 distance:153
-theta: 191.859	 distance:0
-theta: 191.984	 distance:153
-theta: 192.141	 distance:154
-theta: 192.266	 distance:0
-theta: 192.344	 distance:154
-theta: 192.531	 distance:154
-theta: 192.734	 distance:154
-theta: 192.938	 distance:154
-theta: 193.141	 distance:154
-theta: 193.359	 distance:154
-theta: 193.547	 distance:154
-theta: 193.75	 distance:154
-theta: 193.953	 distance:154
-theta: 194.219	 distance:153
-theta: 194.531	 distance:151
-theta: 194.781	 distance:150
-theta: 194.891	 distance:0
-theta: 194.984	 distance:150
-theta: 195.188	 distance:150
-theta: 195.297	 distance:0
-theta: 195.391	 distance:150
-theta: 195.5	 distance:0
-theta: 195.594	 distance:150
-theta: 195.703	 distance:0
-theta: 195.797	 distance:150
-theta: 195.906	 distance:0
-theta: 196	 distance:150
-theta: 196.109	 distance:0
-theta: 196.203	 distance:150
-theta: 196.313	 distance:0
-theta: 196.344	 distance:151
-theta: 196.516	 distance:0
-theta: 196.547	 distance:151
-theta: 196.719	 distance:0
-theta: 196.75	 distance:151
-theta: 196.922	 distance:0
-theta: 196.953	 distance:151
-theta: 197.125	 distance:0
-theta: 197.156	 distance:151
-theta: 197.328	 distance:0
-theta: 197.359	 distance:151
-theta: 197.531	 distance:0
-theta: 197.625	 distance:150
-theta: 197.734	 distance:0
-theta: 197.813	 distance:150
-theta: 197.938	 distance:0
-theta: 198.016	 distance:150
-theta: 198.125	 distance:0
-theta: 198.172	 distance:151
-theta: 198.313	 distance:152
-theta: 198.328	 distance:0
-theta: 198.453	 distance:153
-theta: 198.531	 distance:0
-theta: 198.734	 distance:0
-theta: 198.859	 distance:153
-theta: 198.938	 distance:0
-theta: 199.141	 distance:0
-theta: 199.156	 distance:155
-theta: 199.297	 distance:156
-theta: 199.344	 distance:0
-theta: 199.547	 distance:0
-theta: 199.609	 distance:154
-theta: 199.75	 distance:0
-theta: 199.875	 distance:153
-theta: 199.953	 distance:0
-theta: 200.016	 distance:154
-theta: 200.156	 distance:0
-theta: 200.219	 distance:154
-theta: 200.359	 distance:0
-theta: 200.359	 distance:155
-theta: 200.563	 distance:0
-theta: 200.563	 distance:155
-theta: 200.766	 distance:0
-theta: 200.766	 distance:155
-theta: 200.969	 distance:155
-theta: 200.969	 distance:0
-theta: 201.172	 distance:0
-theta: 201.234	 distance:154
-theta: 201.375	 distance:155
-theta: 201.375	 distance:0
-theta: 201.578	 distance:0
-theta: 201.766	 distance:0
-theta: 201.797	 distance:155
-theta: 201.969	 distance:0
-theta: 202.172	 distance:0
-theta: 202.375	 distance:0
-theta: 202.578	 distance:0
-theta: 202.781	 distance:0
-theta: 202.984	 distance:0
-theta: 203.188	 distance:0
-theta: 203.391	 distance:0
-theta: 203.594	 distance:0
-theta: 203.797	 distance:0
-theta: 204	 distance:0
-theta: 204.203	 distance:0
-theta: 204.406	 distance:0
-theta: 204.609	 distance:0
-theta: 204.641	 distance:666
-theta: 204.891	 distance:658
-theta: 205.094	 distance:648
-theta: 205.359	 distance:640
-theta: 205.563	 distance:632
-theta: 205.813	 distance:624
-theta: 206.016	 distance:616
-theta: 206.281	 distance:608
-theta: 206.484	 distance:602
-theta: 206.75	 distance:596
-theta: 206.953	 distance:590
-theta: 207.203	 distance:584
-theta: 207.422	 distance:580
-theta: 207.609	 distance:574
-theta: 207.875	 distance:570
-theta: 208.078	 distance:566
-theta: 208.281	 distance:564
-theta: 208.484	 distance:562
-theta: 208.688	 distance:562
-theta: 208.891	 distance:562
-theta: 209.156	 distance:558
-theta: 209.359	 distance:558
-theta: 209.5	 distance:566
-theta: 209.703	 distance:570
-theta: 209.859	 distance:572
-theta: 210.109	 distance:568
-theta: 210.313	 distance:564
-theta: 210.516	 distance:562
-theta: 210.719	 distance:560
-theta: 210.984	 distance:558
-theta: 211.188	 distance:554
-theta: 211.391	 distance:554
-theta: 211.594	 distance:556
-theta: 211.797	 distance:554
-theta: 212	 distance:556
-theta: 212.141	 distance:562
-theta: 212.406	 distance:558
-theta: 212.547	 distance:560
-theta: 212.75	 distance:568
-theta: 212.953	 distance:570
-theta: 213.172	 distance:564
-theta: 213.375	 distance:564
-theta: 213.578	 distance:562
-theta: 213.781	 distance:566
-theta: 213.922	 distance:574
-theta: 214.109	 distance:0
-theta: 214.125	 distance:574
-theta: 214.313	 distance:0
-theta: 214.719	 distance:0
-theta: 214.734	 distance:574
-theta: 214.922	 distance:0
-theta: 215.125	 distance:0
-theta: 215.547	 distance:574
-theta: 215.75	 distance:572
-theta: 215.953	 distance:572
-theta: 216.156	 distance:572
-theta: 216.359	 distance:572
-theta: 216.563	 distance:572
-theta: 216.766	 distance:572
-theta: 216.969	 distance:572
-theta: 217.172	 distance:572
-theta: 217.375	 distance:574
-theta: 217.578	 distance:574
-theta: 217.75	 distance:0
-theta: 217.781	 distance:580
-theta: 217.953	 distance:0
-theta: 219.297	 distance:421
-theta: 219.578	 distance:0
-theta: 219.719	 distance:391
-theta: 219.766	 distance:0
-theta: 219.984	 distance:389
-theta: 220.188	 distance:387
-theta: 220.391	 distance:387
-theta: 220.594	 distance:385
-theta: 220.844	 distance:381
-theta: 221.484	 distance:380
-theta: 221.672	 distance:384
-theta: 221.813	 distance:386
-theta: 222.078	 distance:383
-theta: 222.281	 distance:379
-theta: 222.531	 distance:377
-theta: 222.734	 distance:376
-theta: 222.938	 distance:375
-theta: 223.141	 distance:374
-theta: 223.344	 distance:374
-theta: 223.547	 distance:373
-theta: 223.813	 distance:372
-theta: 224.016	 distance:371
-theta: 224.219	 distance:371
-theta: 224.422	 distance:370
-theta: 224.625	 distance:369
-theta: 224.828	 distance:368
-theta: 225.094	 distance:367
-theta: 225.297	 distance:367
-theta: 225.5	 distance:367
-theta: 225.703	 distance:367
-theta: 225.906	 distance:366
-theta: 226.109	 distance:366
-theta: 226.313	 distance:366
-theta: 226.516	 distance:366
-theta: 226.719	 distance:365
-theta: 226.859	 distance:0
-theta: 226.922	 distance:365
-theta: 227.047	 distance:0
-theta: 227.125	 distance:366
-theta: 227.328	 distance:366
-theta: 227.531	 distance:365
-theta: 227.656	 distance:0
-theta: 227.734	 distance:362
-theta: 228	 distance:360
-theta: 228.203	 distance:360
-theta: 228.344	 distance:362
-theta: 228.953	 distance:366
-theta: 229.109	 distance:372
-theta: 229.625	 distance:361
-theta: 229.828	 distance:360
-theta: 230.031	 distance:360
-theta: 230.234	 distance:359
-theta: 230.438	 distance:358
-theta: 230.641	 distance:358
-theta: 230.906	 distance:356
-theta: 231.109	 distance:356
-theta: 231.328	 distance:356
-theta: 231.516	 distance:356
-theta: 231.719	 distance:355
-theta: 231.922	 distance:354
-theta: 232.125	 distance:354
-theta: 232.328	 distance:354
-theta: 232.531	 distance:354
-theta: 232.734	 distance:354
-theta: 232.938	 distance:353
-theta: 233.141	 distance:353
-theta: 233.344	 distance:352
-theta: 233.547	 distance:352
-theta: 233.75	 distance:352
-theta: 234.016	 distance:351
-theta: 234.219	 distance:351
-theta: 234.422	 distance:351
-theta: 234.625	 distance:351
-theta: 234.844	 distance:351
-theta: 235.031	 distance:351
-theta: 235.234	 distance:351
-theta: 235.438	 distance:350
-theta: 235.641	 distance:350
-theta: 235.844	 distance:350
-theta: 236.047	 distance:350
-theta: 236.25	 distance:350
-theta: 236.453	 distance:350
-theta: 236.656	 distance:350
-theta: 236.859	 distance:350
-theta: 237.063	 distance:350
-theta: 237.266	 distance:350
-theta: 237.469	 distance:350
-theta: 237.672	 distance:350
-theta: 237.875	 distance:349
-theta: 238.078	 distance:349
-theta: 238.297	 distance:349
-theta: 238.5	 distance:350
-theta: 238.578	 distance:0
-theta: 238.703	 distance:350
-theta: 238.906	 distance:350
-theta: 238.984	 distance:0
-theta: 239.109	 distance:350
-theta: 239.188	 distance:0
-theta: 239.313	 distance:351
-theta: 239.391	 distance:0
-theta: 239.453	 distance:352
-theta: 239.594	 distance:0
-theta: 239.656	 distance:352
-theta: 239.797	 distance:0
-theta: 239.859	 distance:352
-theta: 240	 distance:0
-theta: 240.063	 distance:353
-theta: 240.203	 distance:0
-theta: 240.328	 distance:351
-theta: 240.844	 distance:338
-theta: 242.078	 distance:376
-theta: 242.344	 distance:371
-theta: 242.594	 distance:365
-theta: 242.859	 distance:359
-theta: 243.125	 distance:355
-theta: 243.328	 distance:354
-theta: 243.531	 distance:354
-theta: 243.734	 distance:354
-theta: 243.938	 distance:354
-theta: 244.141	 distance:353
-theta: 244.344	 distance:353
-theta: 244.547	 distance:353
-theta: 244.75	 distance:353
-theta: 244.953	 distance:353
-theta: 245.156	 distance:352
-theta: 245.359	 distance:352
-theta: 245.563	 distance:352
-theta: 245.766	 distance:352
-theta: 245.969	 distance:352
-theta: 246.172	 distance:352
-theta: 246.375	 distance:352
-theta: 246.578	 distance:352
-theta: 246.797	 distance:352
-theta: 246.984	 distance:352
-theta: 247.188	 distance:352
-theta: 247.391	 distance:353
-theta: 247.594	 distance:353
-theta: 247.797	 distance:353
-theta: 248	 distance:353
-theta: 248.203	 distance:353
-theta: 248.422	 distance:354
-theta: 248.625	 distance:354
-theta: 248.828	 distance:354
-theta: 249.031	 distance:354
-theta: 249.234	 distance:355
-theta: 249.438	 distance:355
-theta: 249.641	 distance:355
-theta: 249.844	 distance:355
-theta: 250.047	 distance:356
-theta: 250.25	 distance:356
-theta: 250.453	 distance:356
-theta: 250.656	 distance:356
-theta: 250.797	 distance:357
-theta: 251.016	 distance:357
-theta: 251.203	 distance:358
-theta: 251.406	 distance:359
-theta: 251.609	 distance:359
-theta: 251.813	 distance:360
-theta: 252.016	 distance:360
-theta: 252.234	 distance:361
-theta: 252.375	 distance:362
-theta: 252.578	 distance:363
-theta: 252.781	 distance:364
-theta: 252.984	 distance:366
-theta: 253.188	 distance:364
-theta: 253.453	 distance:361
-theta: 253.594	 distance:362
-theta: 253.797	 distance:364
-theta: 253.953	 distance:368
-theta: 254.156	 distance:371
-theta: 254.297	 distance:373
-theta: 254.5	 distance:378
-theta: 254.656	 distance:384
-theta: 254.797	 distance:387
-theta: 255	 distance:386
-theta: 255.266	 distance:382
-theta: 255.469	 distance:379
-theta: 255.719	 distance:377
-theta: 255.938	 distance:376
-theta: 256.125	 distance:376
-theta: 256.328	 distance:376
-theta: 256.531	 distance:375
-theta: 256.734	 distance:375
-theta: 256.938	 distance:376
-theta: 257.156	 distance:376
-theta: 257.359	 distance:376
-theta: 257.563	 distance:376
-theta: 257.766	 distance:376
-theta: 257.969	 distance:376
-theta: 258.172	 distance:377
-theta: 258.375	 distance:378
-theta: 258.578	 distance:378
-theta: 258.719	 distance:379
-theta: 258.922	 distance:379
-theta: 259.125	 distance:380
-theta: 259.328	 distance:381
-theta: 259.531	 distance:382
-theta: 259.734	 distance:382
-theta: 259.938	 distance:383
-theta: 260.094	 distance:385
-theta: 260.297	 distance:386
-theta: 260.5	 distance:388
-theta: 260.703	 distance:389
-theta: 260.828	 distance:0
-theta: 260.859	 distance:391
-theta: 261.031	 distance:0
-theta: 261.047	 distance:393
-theta: 261.25	 distance:394
-theta: 261.438	 distance:0
-theta: 261.453	 distance:396
-theta: 261.609	 distance:398
-theta: 261.641	 distance:0
-theta: 261.813	 distance:400
-theta: 261.844	 distance:0
-theta: 262.016	 distance:403
-theta: 262.047	 distance:0
-theta: 262.156	 distance:406
-theta: 262.25	 distance:0
-theta: 262.453	 distance:0
-theta: 262.656	 distance:0
-theta: 262.719	 distance:410
-theta: 263.734	 distance:509
-theta: 263.953	 distance:507
-theta: 264.156	 distance:511
-theta: 264.297	 distance:516
-theta: 264.5	 distance:518
-theta: 264.703	 distance:522
-theta: 264.859	 distance:526
-theta: 265.078	 distance:528
-theta: 265.266	 distance:530
-theta: 265.469	 distance:534
-theta: 265.625	 distance:538
-theta: 265.828	 distance:540
-theta: 266.031	 distance:546
-theta: 266.172	 distance:550
-theta: 266.391	 distance:554
-theta: 266.531	 distance:560
-theta: 266.734	 distance:566
-theta: 266.891	 distance:574
-theta: 266.891	 distance:0
-theta: 267.094	 distance:584
-theta: 267.094	 distance:0
-theta: 267.234	 distance:590
-theta: 267.297	 distance:0
-theta: 267.5	 distance:0
-theta: 267.703	 distance:0
-theta: 267.906	 distance:0
-theta: 268.109	 distance:0
-theta: 268.313	 distance:0
-theta: 268.516	 distance:0
-theta: 268.625	 distance:1302
-theta: 268.719	 distance:0
-theta: 268.828	 distance:1300
-theta: 268.922	 distance:0
-theta: 269.031	 distance:1298
-theta: 269.125	 distance:0
-theta: 269.234	 distance:1298
-theta: 269.438	 distance:1296
-theta: 269.703	 distance:1294
-theta: 269.906	 distance:1292
-theta: 270.109	 distance:1290
-theta: 270.313	 distance:1290
-theta: 270.516	 distance:1288
-theta: 270.719	 distance:1288
-theta: 270.922	 distance:1286
-theta: 271.141	 distance:1284
-theta: 271.344	 distance:1284
-theta: 271.547	 distance:1282
-theta: 271.75	 distance:1280
-theta: 271.953	 distance:1276
-theta: 272.156	 distance:1274
-theta: 272.359	 distance:1272
-theta: 272.563	 distance:1270
-theta: 272.766	 distance:1272
-theta: 272.984	 distance:1274
-theta: 273.188	 distance:1272
-theta: 273.391	 distance:1272
-theta: 273.594	 distance:1270
-theta: 273.797	 distance:1268
-theta: 274	 distance:1266
-theta: 274.219	 distance:1264
-theta: 274.406	 distance:1266
-theta: 274.609	 distance:1268
-theta: 274.828	 distance:1266
-theta: 275.031	 distance:1264
-theta: 275.234	 distance:1264
-theta: 275.438	 distance:1264
-theta: 275.641	 distance:1264
-theta: 275.844	 distance:1262
-theta: 276.047	 distance:1262
-theta: 276.25	 distance:1262
-theta: 276.453	 distance:1264
-theta: 276.672	 distance:1264
-theta: 276.875	 distance:1264
-theta: 277.078	 distance:1264
-theta: 277.281	 distance:1262
-theta: 277.484	 distance:1262
-theta: 277.688	 distance:1262
-theta: 278.313	 distance:1262
-theta: 278.422	 distance:0
-theta: 278.625	 distance:0
-theta: 279.031	 distance:0
-theta: 279.234	 distance:0
-theta: 279.438	 distance:0
-theta: 279.641	 distance:0
-theta: 279.844	 distance:0
-theta: 279.938	 distance:1250
-theta: 280.047	 distance:0
-theta: 280.156	 distance:1252
-theta: 280.25	 distance:0
-theta: 280.359	 distance:1266
-theta: 280.563	 distance:1268
-theta: 280.766	 distance:1272
-theta: 281.453	 distance:0
-theta: 281.484	 distance:2380
-theta: 281.656	 distance:0
-theta: 281.688	 distance:2376
-theta: 281.859	 distance:0
-theta: 281.891	 distance:2376
-theta: 282.063	 distance:0
-theta: 282.094	 distance:2376
-theta: 282.266	 distance:0
-theta: 282.297	 distance:2372
-theta: 282.5	 distance:2372
-theta: 282.703	 distance:2368
-theta: 282.906	 distance:2368
-theta: 283.109	 distance:2368
-theta: 283.313	 distance:2368
-theta: 283.516	 distance:2368
-theta: 283.719	 distance:2364
-theta: 283.922	 distance:2364
-theta: 284.125	 distance:2368
-theta: 284.328	 distance:2368
-theta: 284.531	 distance:2364
-theta: 284.734	 distance:2368
-theta: 284.938	 distance:2368
-theta: 285.141	 distance:2368
-theta: 285.344	 distance:2368
-theta: 285.547	 distance:2368
-theta: 285.75	 distance:2372
-theta: 285.953	 distance:2372
-theta: 286.172	 distance:2368
-theta: 286.359	 distance:2368
-theta: 286.563	 distance:2368
-theta: 286.766	 distance:2368
-theta: 286.969	 distance:2368
-theta: 287.172	 distance:2368
-theta: 287.391	 distance:2368
-theta: 287.594	 distance:2368
-theta: 287.797	 distance:2368
-theta: 288	 distance:2364
-theta: 288.203	 distance:2368
-theta: 288.406	 distance:2368
-theta: 288.609	 distance:2368
-theta: 288.813	 distance:2364
-theta: 289.016	 distance:2364
-theta: 289.219	 distance:2364
-theta: 289.422	 distance:2368
-theta: 289.625	 distance:2368
-theta: 289.828	 distance:2364
-theta: 290.031	 distance:2368
-theta: 290.234	 distance:2368
-theta: 290.438	 distance:2372
-theta: 290.641	 distance:2368
-theta: 290.844	 distance:2368
-theta: 291.047	 distance:2372
-theta: 291.25	 distance:2372
-theta: 291.453	 distance:2372
-theta: 291.859	 distance:2372
-theta: 292.469	 distance:2372
-theta: 292.578	 distance:0
-theta: 292.984	 distance:0
-theta: 293.188	 distance:0
-theta: 293.594	 distance:0
-theta: 293.797	 distance:0
-theta: 293.859	 distance:1842
-theta: 294	 distance:0
-theta: 294.063	 distance:1820
-theta: 294.203	 distance:0
-theta: 294.406	 distance:0
-theta: 294.469	 distance:1822
-theta: 294.719	 distance:2364
-theta: 294.922	 distance:2372
-theta: 295.016	 distance:0
-theta: 295.125	 distance:2380
-theta: 295.328	 distance:2380
-theta: 295.406	 distance:0
-theta: 295.531	 distance:2368
-theta: 295.734	 distance:2352
-theta: 295.938	 distance:2364
-theta: 296.141	 distance:2384
-theta: 296.344	 distance:2384
-theta: 296.547	 distance:2388
-theta: 296.75	 distance:2388
-theta: 296.953	 distance:2388
-theta: 297.156	 distance:2392
-theta: 297.359	 distance:2392
-theta: 297.563	 distance:2396
-theta: 297.766	 distance:2396
-theta: 297.969	 distance:2396
-theta: 298.172	 distance:2400
-theta: 298.375	 distance:2404
-theta: 298.578	 distance:2404
-theta: 298.781	 distance:2404
-theta: 298.984	 distance:2408
-theta: 299.188	 distance:2408
-theta: 299.391	 distance:2408
-theta: 299.594	 distance:2412
-theta: 299.797	 distance:2412
-theta: 300	 distance:2412
-theta: 300.203	 distance:2416
-theta: 300.422	 distance:2416
-theta: 301.031	 distance:2240
-theta: 301.281	 distance:2204
-theta: 301.484	 distance:2172
-theta: 301.484	 distance:0
-theta: 301.688	 distance:2136
-theta: 301.688	 distance:0
-theta: 301.891	 distance:2096
-theta: 302.094	 distance:2060
-theta: 302.359	 distance:2028
-theta: 302.563	 distance:2000
-theta: 302.766	 distance:1970
-theta: 302.969	 distance:1938
-theta: 303.172	 distance:1914
-theta: 303.578	 distance:1904
-theta: 304.078	 distance:2456
-theta: 304.109	 distance:0
-theta: 304.234	 distance:2460
-theta: 304.453	 distance:2460
-theta: 304.516	 distance:0
-theta: 304.641	 distance:2460
-theta: 304.719	 distance:0
-theta: 304.844	 distance:2464
-theta: 305.047	 distance:2468
-theta: 305.25	 distance:2472
-theta: 305.453	 distance:2472
-theta: 305.656	 distance:2476
-theta: 305.859	 distance:2480
-theta: 306.063	 distance:2480
-theta: 306.266	 distance:2484
-theta: 306.469	 distance:2484
-theta: 306.672	 distance:2488
-theta: 306.875	 distance:2496
-theta: 307.078	 distance:2496
-theta: 307.281	 distance:2496
-theta: 308.297	 distance:1220
-theta: 308.359	 distance:0
-theta: 308.5	 distance:1204
-theta: 308.719	 distance:1190
-theta: 308.922	 distance:1190
-theta: 309.375	 distance:0
-theta: 309.578	 distance:0
-theta: 310.703	 distance:592
-theta: 310.906	 distance:590
-theta: 311.109	 distance:588
-theta: 311.313	 distance:586
-theta: 311.578	 distance:582
-theta: 311.781	 distance:578
-theta: 311.984	 distance:576
-theta: 312.188	 distance:574
-theta: 312.391	 distance:574
-theta: 312.594	 distance:572
-theta: 312.797	 distance:572
-theta: 313.047	 distance:570
-theta: 313.25	 distance:568
-theta: 313.453	 distance:564
-theta: 313.656	 distance:560
-theta: 313.922	 distance:558
-theta: 314.125	 distance:558
-theta: 314.328	 distance:556
-theta: 314.531	 distance:554
-theta: 314.734	 distance:550
-theta: 315	 distance:546
-theta: 315.203	 distance:544
-theta: 315.406	 distance:544
-theta: 315.609	 distance:542
-theta: 315.813	 distance:540
-theta: 316.016	 distance:540
-theta: 316.219	 distance:540
-theta: 316.422	 distance:540
-theta: 316.625	 distance:538
-theta: 316.828	 distance:536
-theta: 317.031	 distance:536
-theta: 317.234	 distance:536
-theta: 317.5	 distance:534
-theta: 317.703	 distance:534
-theta: 317.906	 distance:534
-theta: 318.109	 distance:534
-theta: 318.313	 distance:534
-theta: 318.516	 distance:534
-theta: 318.719	 distance:532
-theta: 318.922	 distance:534
-theta: 319.063	 distance:536
-theta: 319.266	 distance:536
-theta: 319.469	 distance:536
-theta: 319.688	 distance:536
-theta: 319.891	 distance:536
-theta: 320.094	 distance:538
-theta: 320.297	 distance:540
-theta: 320.5	 distance:542
-theta: 320.703	 distance:544
-theta: 320.906	 distance:546
-theta: 321.047	 distance:548
-theta: 321.25	 distance:550
-theta: 321.469	 distance:552
-theta: 321.672	 distance:556
-theta: 321.875	 distance:558
-theta: 322.031	 distance:560
-theta: 322.234	 distance:564
-theta: 322.313	 distance:0
-theta: 322.438	 distance:566
-theta: 322.641	 distance:570
-theta: 322.719	 distance:0
-theta: 322.781	 distance:572
-theta: 322.922	 distance:0
-theta: 322.984	 distance:576
-theta: 323.125	 distance:0
-theta: 323.203	 distance:582
-theta: 323.328	 distance:0
-theta: 323.531	 distance:0
-theta: 323.547	 distance:586
-theta: 323.734	 distance:0
-theta: 323.938	 distance:0
-theta: 324.125	 distance:0
-theta: 324.328	 distance:0
-theta: 324.531	 distance:0
-theta: 324.734	 distance:0
-theta: 324.891	 distance:1154
-theta: 325.141	 distance:0
-theta: 325.344	 distance:0
-theta: 325.5	 distance:1158
-theta: 325.75	 distance:0
-theta: 326.703	 distance:694
-theta: 326.906	 distance:694
-theta: 327.109	 distance:692
-theta: 327.313	 distance:690
-theta: 327.516	 distance:686
-theta: 327.719	 distance:684
-theta: 327.938	 distance:684
-theta: 328.188	 distance:682
-theta: 328.391	 distance:680
-theta: 328.609	 distance:676
-theta: 328.813	 distance:676
-theta: 329.016	 distance:674
-theta: 329.219	 distance:670
-theta: 329.484	 distance:664
-theta: 329.688	 distance:660
-theta: 329.891	 distance:658
-theta: 330.094	 distance:654
-theta: 330.297	 distance:654
-theta: 330.5	 distance:654
-theta: 330.703	 distance:652
-theta: 330.922	 distance:650
-theta: 331.125	 distance:648
-theta: 331.375	 distance:646
-theta: 331.578	 distance:644
-theta: 331.797	 distance:644
-theta: 332	 distance:642
-theta: 332.203	 distance:640
-theta: 332.406	 distance:640
-theta: 332.609	 distance:640
-theta: 332.813	 distance:640
-theta: 333.016	 distance:640
-theta: 333.219	 distance:640
-theta: 333.438	 distance:640
-theta: 333.641	 distance:642
-theta: 333.844	 distance:646
-theta: 334.047	 distance:644
-theta: 334.25	 distance:644
-theta: 334.453	 distance:642
-theta: 334.656	 distance:640
-theta: 334.859	 distance:638
-theta: 335.078	 distance:638
-theta: 335.281	 distance:638
-theta: 335.484	 distance:638
-theta: 335.688	 distance:640
-theta: 335.891	 distance:640
-theta: 336.094	 distance:642
-theta: 336.297	 distance:642
-theta: 336.5	 distance:642
-theta: 336.719	 distance:644
-theta: 336.922	 distance:644
-theta: 337.125	 distance:644
-theta: 337.328	 distance:646
-theta: 337.531	 distance:646
-theta: 337.688	 distance:648
-theta: 337.891	 distance:648
-theta: 338.094	 distance:648
-theta: 338.297	 distance:648
-theta: 338.5	 distance:650
-theta: 338.703	 distance:652
-theta: 338.906	 distance:654
-theta: 339.125	 distance:656
-theta: 339.328	 distance:658
-theta: 339.531	 distance:660
-theta: 339.734	 distance:662
-theta: 339.938	 distance:662
-theta: 340.141	 distance:664
-theta: 340.313	 distance:668
-theta: 340.313	 distance:0
-theta: 340.5	 distance:672
-theta: 340.516	 distance:0
-theta: 340.703	 distance:674
-theta: 340.906	 distance:678
-theta: 340.922	 distance:0
-theta: 341.047	 distance:686
-theta: 341.125	 distance:0
-theta: 341.328	 distance:0
-theta: 341.531	 distance:0
-theta: 341.656	 distance:694
-theta: 341.734	 distance:0
-theta: 342.156	 distance:1096
-theta: 342.328	 distance:0
-theta: 342.359	 distance:1084
-theta: 342.766	 distance:1082
-theta: 342.984	 distance:1082
-theta: 343.188	 distance:1084
-theta: 343.391	 distance:1090
-theta: 343.594	 distance:1088
-theta: 343.797	 distance:1076
-theta: 344	 distance:1080
-theta: 344.203	 distance:1088
-theta: 344.406	 distance:1082
-theta: 344.609	 distance:1080
-theta: 344.813	 distance:1082
-theta: 345.016	 distance:1088
-theta: 345.172	 distance:0
-theta: 345.234	 distance:1088
-theta: 345.375	 distance:0
-theta: 345.578	 distance:0
-theta: 345.766	 distance:0
-theta: 345.969	 distance:0
-theta: 346.172	 distance:0
-theta: 346.375	 distance:0
-theta: 346.578	 distance:0
-theta: 346.781	 distance:0
-theta: 346.984	 distance:0
-theta: 347.188	 distance:0
-theta: 347.391	 distance:0
-theta: 347.594	 distance:0
-theta: 347.797	 distance:0
-theta: 348	 distance:0
-theta: 348.203	 distance:0
-theta: 348.531	 distance:1232
-theta: 348.75	 distance:1232
-theta: 348.938	 distance:1232
-theta: 349.141	 distance:1230
-theta: 349.344	 distance:1230
-theta: 349.547	 distance:1232
-theta: 349.75	 distance:1236
-theta: 349.953	 distance:1232
-theta: 350.219	 distance:1222
-theta: 350.422	 distance:1218
-theta: 350.625	 distance:1216
-theta: 350.828	 distance:1216
-theta: 351.031	 distance:1220
-theta: 351.234	 distance:1226
-theta: 351.375	 distance:1234
-theta: 351.578	 distance:1240
-theta: 351.797	 distance:1250
-theta: 352	 distance:1258
-theta: 352.203	 distance:1272
-theta: 352.406	 distance:1280
-theta: 352.609	 distance:1286
-theta: 352.75	 distance:1300
-theta: 352.859	 distance:1300
-theta: 353.047	 distance:1320
-theta: 353.25	 distance:1338
-theta: 353.453	 distance:1344
-theta: 353.641	 distance:1348
-theta: 353.844	 distance:1364
-theta: 353.984	 distance:1378
-theta: 354.188	 distance:1384
-theta: 354.469	 distance:0
-theta: 354.672	 distance:0
-theta: 354.781	 distance:1396
-theta: 355.078	 distance:0
-theta: 358.313	 distance:0
-theta: 358.719	 distance:0
-theta: 358.922	 distance:0
-theta: 359.328	 distance:0
-theta: 359.531	 distance:0
-theta: 359.938	 distance:0
+0.125	159
+0.28125	160
+0.375	160
+0.578125	0
+0.78125	0
+0.984375	160
+1.20313	0
+1.40625	0
+1.53125	189
+1.625	0
+1.75	188
+1.82813	0
+2	187
+2.03125	0
+2.25	0
+2.26563	185
+2.45313	0
+2.53125	184
+2.65625	0
+2.78125	183
+3.04688	182
+3.25	182
+3.46875	182
+3.60938	183
+3.8125	183
+3.96875	184
+4.17188	184
+4.3125	185
+4.51563	186
+4.73438	186
+4.875	187
+5.07813	187
+5.23438	188
+5.4375	189
+5.64063	189
+5.79688	190
+5.9375	191
+6.14063	191
+6.34375	192
+6.5	193
+6.64063	194
+6.85938	195
+7.0625	195
+7.20313	196
+7.35938	197
+7.92188	199
+9.34375	0
+9.54688	0
+9.71875	201
+9.85938	202
+9.96875	0
+10.0625	203
+10.1719	0
+10.2188	204
+10.3594	205
+10.3906	0
+10.5156	207
+10.5938	0
+10.7188	208
+10.7969	0
+11.0156	0
+11.2188	0
+11.2813	209
+11.4219	0
+12.1719	207
+12.6563	205
+13.0938	0
+13.3125	0
+13.625	221
+13.7188	0
+13.7813	222
+13.9375	0
+13.9844	222
+14.1406	0
+14.1875	223
+14.3438	224
+14.5469	225
+14.5625	0
+14.6875	227
+14.8438	228
+14.9688	0
+15.0469	228
+15.1875	0
+15.25	229
+15.3906	0
+15.4063	230
+15.6094	0
+15.6094	231
+15.7656	232
+15.8125	0
+15.9688	233
+16.0156	0
+16.1719	234
+16.3281	235
+16.5313	235
+16.6719	237
+16.8906	238
+17.0313	239
+17.2344	240
+17.4531	241
+17.5938	242
+17.7969	243
+17.9531	244
+18.1563	245
+18.3125	246
+18.5156	247
+18.7188	248
+18.875	249
+19.0781	250
+19.2188	252
+19.375	254
+19.5781	255
+19.7813	256
+20	256
+20.1406	258
+20.2969	259
+20.5	260
+20.6563	262
+20.8594	264
+21	265
+25	0
+25.2031	0
+25.4063	0
+25.625	0
+25.8281	0
+26.0313	0
+26.25	0
+26.4531	0
+26.6563	0
+26.875	0
+27.0781	0
+27.2813	0
+27.5	0
+27.7031	0
+27.9219	0
+28.125	0
+28.3281	0
+28.5469	0
+28.75	0
+28.9531	0
+29.1719	0
+29.375	0
+29.5781	0
+29.7969	0
+30	0
+30.2031	0
+30.4219	0
+30.625	0
+30.8438	0
+31.0469	0
+31.25	0
+31.4688	0
+31.6719	0
+31.875	0
+32.0938	0
+32.2969	0
+32.5	0
+32.7188	0
+32.9219	0
+33.125	0
+33.3438	0
+33.5469	0
+33.7656	0
+33.9688	0
+34.1719	0
+34.3906	0
+34.5938	0
+34.7969	0
+35.0156	0
+35.2188	0
+35.4219	0
+35.6406	0
+35.8438	0
+36.0469	0
+36.2656	0
+36.4688	0
+36.6875	0
+36.8906	0
+37.0938	0
+37.3125	0
+37.5156	0
+37.7188	0
+37.9375	0
+38.1406	0
+38.3438	0
+38.5625	0
+38.7656	0
+38.9688	0
+39.1875	0
+39.3906	0
+39.6094	0
+39.8125	0
+40.0156	0
+40.2344	0
+40.4375	0
+40.6406	0
+40.8594	0
+41.0625	0
+41.2656	0
+41.4844	0
+41.6875	0
+41.8906	0
+42.1094	0
+42.3125	0
+42.5313	0
+42.7344	0
+42.9375	0
+43.1563	0
+43.3594	0
+43.5625	0
+43.7813	0
+43.9844	0
+44.1875	0
+44.4063	0
+44.6094	0
+44.8125	0
+45.0313	0
+45.2344	0
+45.4531	0
+45.6563	0
+45.8594	0
+46.0781	0
+46.2813	0
+46.4844	0
+46.7031	0
+46.9063	0
+47.1094	0
+47.3281	0
+47.5313	0
+47.7344	0
+47.9531	0
+48.1563	0
+48.375	0
+48.5781	0
+48.7813	0
+49	0
+49.2031	0
+49.4063	0
+49.625	0
+49.8281	0
+50.0313	0
+50.25	0
+50.4531	0
+50.6563	0
+50.875	0
+51.0781	0
+51.2813	0
+51.5	0
+51.7031	0
+51.9219	0
+52.125	0
+52.3281	0
+52.5469	0
+52.75	0
+52.9531	0
+53.1719	0
+53.375	0
+53.5781	0
+53.7969	0
+54	0
+54.2031	0
+54.4219	0
+54.625	0
+54.8438	0
+55.0469	0
+55.25	0
+55.4688	0
+55.6719	0
+55.875	0
+56.0938	0
+56.2969	0
+56.5	0
+56.7188	0
+56.9219	0
+57.125	0
+57.3438	0
+57.5469	0
+57.7656	0
+57.9688	0
+58.1719	0
+58.3906	0
+58.5938	0
+58.7969	0
+59.0156	0
+59.2188	0
+59.4219	0
+59.6406	0
+59.8438	0
+60.0469	0
+60.2656	0
+60.4688	0
+60.6875	0
+60.8906	0
+60.9375	367
+61.0938	0
+61.1406	365
+61.3125	0
+61.3594	362
+61.5156	0
+61.6094	359
+61.7188	0
+61.8281	358
+61.9375	0
+62.0938	355
+62.1406	0
+62.2969	353
+62.3438	0
+62.5625	0
+62.5781	351
+62.7656	0
+62.7656	349
+62.9688	0
+62.9688	347
+63.1875	0
+63.2344	345
+63.3906	0
+63.4375	343
+63.6094	0
+63.7031	338
+63.8125	0
+63.9844	333
+64.0156	0
+64.2344	0
+64.2813	327
+64.4375	0
+64.5469	323
+64.6406	0
+64.75	321
+64.8594	0
+65.0625	0
+65.2656	0
+65.4219	319
+65.4844	0
+65.6875	0
+65.8125	355
+65.8906	0
+66.0156	354
+66.1094	0
+66.2813	351
+66.3125	0
+66.4844	348
+66.75	344
+67.0156	341
+67.2188	340
+67.4219	340
+67.625	340
+67.8438	340
+68.0469	341
+68.25	341
+68.4531	341
+68.6094	342
+68.8125	342
+69.0156	342
+69.2344	343
+69.4375	343
+69.6406	343
+69.8438	344
+70.0469	344
+70.0781	0
+70.2656	345
+70.2813	0
+70.4688	345
+70.6719	345
+70.7031	0
+70.875	346
+70.9063	0
+71.0938	346
+71.1094	0
+71.2969	346
+71.4375	347
+71.6563	347
+71.8594	347
+72.0625	348
+72.2656	348
+72.4844	349
+72.6875	349
+72.8906	349
+73.0938	350
+73.3125	350
+73.5156	351
+73.7188	351
+73.875	352
+74.0781	352
+74.2813	352
+74.4844	353
+74.7031	354
+74.9063	354
+75.1094	354
+75.3125	355
+75.5156	356
+75.7344	356
+75.9375	356
+76.0938	357
+76.2969	357
+76.5	357
+76.7031	358
+76.9063	359
+77.125	359
+77.3438	359
+77.5313	360
+77.7344	360
+77.9531	361
+78.0938	362
+78.5156	362
+80.5938	344
+80.7969	343
+81.0625	339
+81.3281	334
+81.5938	328
+81.9063	323
+82.1719	319
+82.375	317
+82.5781	316
+82.8438	314
+83.0469	313
+83.2656	314
+83.4688	315
+83.6719	315
+83.875	314
+84.0469	0
+84.0938	312
+84.375	310
+84.4688	0
+84.5625	308
+84.6875	0
+84.8281	306
+84.8906	0
+85.0313	304
+85.0938	0
+85.2969	302
+85.3125	0
+85.5	300
+85.5156	0
+85.7188	0
+85.7813	298
+85.9375	0
+86.0313	296
+86.2344	294
+86.5	292
+86.7188	290
+86.9844	288
+87.1875	286
+87.4531	283
+87.7188	282
+87.9375	280
+88.2031	278
+88.4063	277
+88.6719	275
+88.9375	273
+89.1406	271
+89.4063	270
+89.625	268
+89.8906	266
+90.1563	264
+90.3594	263
+90.5781	262
+90.8438	260
+91.0469	259
+91.3125	257
+91.5781	256
+91.7969	254
+92.0625	253
+92.2656	251
+92.5313	250
+92.8125	248
+93	247
+93.2188	246
+93.4844	244
+93.75	243
+93.9531	242
+94.2188	240
+94.4375	240
+94.6406	239
+94.9219	237
+95.1719	236
+95.3906	235
+95.6563	234
+95.8594	232
+96.125	231
+96.3438	230
+96.6094	228
+96.875	227
+97.0781	227
+97.2813	226
+97.5469	225
+97.7656	224
+98.0313	223
+98.2344	222
+98.5	221
+98.7188	220
+98.9844	219
+99.1875	218
+99.4531	217
+99.6719	216
+99.9375	215
+100.141	215
+100.406	213
+100.609	213
+100.828	212
+101.141	210
+101.359	210
+101.563	209
+101.828	207
+102.047	207
+102.313	206
+102.516	206
+102.734	205
+103.047	203
+103.266	203
+103.469	202
+103.734	201
+103.938	201
+104.156	200
+104.422	199
+104.688	198
+104.891	198
+105.109	197
+105.375	196
+105.578	196
+105.844	195
+106.063	194
+106.328	193
+106.594	192
+106.797	192
+107.016	191
+107.219	191
+107.484	190
+107.688	190
+107.953	189
+108.172	188
+108.438	187
+108.641	187
+108.906	186
+109.109	186
+109.313	185
+109.578	184
+109.781	184
+110.047	183
+110.313	182
+110.516	181
+110.719	181
+110.984	180
+111.25	179
+111.453	179
+111.719	178
+111.922	178
+112.125	178
+112.547	177
+114.109	0
+114.531	0
+114.578	174
+114.734	0
+114.891	171
+114.938	0
+115.094	171
+115.156	0
+115.359	0
+115.359	170
+115.563	0
+115.563	170
+115.781	0
+115.781	170
+115.984	0
+115.984	170
+116.25	169
+116.453	169
+116.719	168
+116.922	168
+117.125	168
+117.391	167
+117.594	167
+117.797	167
+118.063	166
+118.266	166
+118.531	165
+118.734	165
+118.953	165
+119.156	165
+119.359	165
+119.563	164
+119.766	164
+119.984	164
+120.188	164
+120.453	163
+120.656	163
+120.859	163
+121.125	162
+121.328	162
+121.531	162
+121.797	161
+122	161
+122.203	161
+122.422	161
+122.625	161
+122.891	160
+123.094	160
+123.297	160
+123.5	160
+123.766	159
+123.969	159
+124.188	159
+124.391	159
+124.594	159
+124.797	159
+125	159
+125.266	158
+125.469	158
+125.688	158
+125.891	158
+126.156	157
+126.359	157
+126.563	157
+126.766	157
+126.984	157
+127.234	156
+127.453	156
+127.656	156
+127.859	156
+128.063	156
+128.266	156
+128.484	156
+128.734	155
+128.953	155
+129.156	155
+129.375	155
+129.563	155
+129.781	155
+129.984	155
+130.25	154
+130.453	154
+130.672	154
+130.875	154
+131.078	154
+131.297	154
+131.563	153
+131.766	153
+131.969	153
+132.188	153
+132.391	153
+132.609	153
+132.813	153
+133.016	153
+133.234	153
+133.438	153
+133.641	153
+133.859	153
+134.063	153
+134.328	152
+134.531	152
+134.75	152
+134.906	153
+135.172	152
+135.375	152
+135.578	152
+135.797	152
+136	152
+136.203	152
+136.422	152
+136.625	152
+136.828	152
+137.047	152
+137.25	152
+137.469	152
+137.672	152
+137.875	152
+138.094	152
+138.359	151
+138.563	151
+138.766	151
+138.984	151
+139.125	152
+139.391	151
+139.609	151
+139.813	151
+140.031	151
+140.234	151
+140.438	151
+140.656	151
+140.859	151
+141.063	151
+141.281	151
+141.484	151
+141.688	151
+141.906	151
+142.109	151
+142.328	151
+142.531	151
+142.734	151
+142.953	151
+143.156	151
+143.359	151
+143.578	151
+143.781	151
+143.984	151
+144.203	151
+144.406	151
+144.625	151
+144.844	151
+145.031	151
+145.25	151
+145.453	151
+145.656	151
+145.875	151
+146.078	151
+146.281	151
+146.5	151
+146.703	151
+146.922	151
+147.125	151
+147.281	152
+147.484	152
+147.75	151
+147.953	151
+148.172	151
+148.375	151
+148.641	150
+148.969	149
+149.234	148
+149.438	148
+149.594	149
+149.797	149
+149.891	150
+150.109	150
+150.313	150
+150.516	150
+150.672	151
+150.891	151
+151.094	151
+151.297	151
+151.563	150
+151.781	150
+151.922	151
+152.141	151
+152.344	151
+152.578	151
+152.828	150
+153.141	149
+153.406	148
+153.672	147
+153.891	147
+154.094	147
+154.25	148
+154.453	148
+154.656	148
+154.875	148
+155.078	148
+155.297	148
+155.438	149
+155.656	149
+155.859	149
+156.063	149
+156.547	148
+156.688	0
+156.703	149
+156.797	150
+156.938	151
+157.156	151
+157.313	152
+157.516	152
+157.719	152
+157.875	153
+158.078	153
+158.297	153
+158.5	153
+158.719	153
+158.859	154
+159.078	154
+159.281	154
+159.438	155
+159.859	155
+160.438	0
+160.859	0
+161.063	0
+161.266	0
+161.484	0
+161.688	0
+161.891	0
+162.109	0
+162.141	486
+162.313	0
+162.422	481
+162.531	0
+162.609	476
+162.734	0
+162.875	472
+162.938	0
+163.078	468
+163.156	0
+163.344	463
+163.359	0
+163.563	0
+163.563	459
+163.781	0
+163.828	455
+163.984	0
+164.031	450
+164.188	0
+164.297	445
+164.406	0
+164.5	442
+164.609	0
+164.719	442
+164.813	0
+164.922	442
+165.031	0
+165.125	443
+165.234	0
+165.344	443
+165.453	0
+165.547	444
+165.656	0
+165.766	445
+165.859	0
+165.969	446
+166.078	0
+166.172	445
+166.281	0
+166.391	446
+166.484	0
+166.531	448
+166.703	0
+166.75	451
+166.906	0
+166.953	452
+167.109	0
+167.172	453
+167.328	0
+167.375	453
+167.531	0
+167.578	453
+167.734	0
+167.797	450
+167.953	0
+168	450
+168.156	0
+168.203	453
+168.359	458
+168.375	0
+168.578	0
+168.781	0
+169.406	461
+169.625	461
+169.828	463
+169.984	465
+170.188	465
+170.391	465
+170.609	466
+170.813	468
+171.031	470
+171.234	471
+171.438	472
+171.594	473
+171.797	473
+172.063	472
+172.281	472
+172.438	473
+172.641	475
+172.844	479
+173	486
+173.219	484
+173.469	480
+173.688	480
+173.891	480
+174.109	481
+174.25	485
+174.469	490
+174.672	491
+174.891	490
+175.094	488
+175.25	0
+175.297	483
+175.469	0
+175.563	478
+175.672	0
+175.781	474
+175.875	0
+176.047	466
+176.313	460
+176.516	457
+176.781	455
+176.984	453
+177.203	452
+177.406	451
+177.609	450
+177.828	449
+178.031	448
+178.297	447
+178.5	446
+178.719	446
+178.922	445
+179.141	445
+179.344	444
+179.547	443
+179.766	442
+179.969	442
+180.172	441
+180.391	441
+180.594	440
+180.813	440
+181.063	439
+181.281	439
+181.484	439
+181.703	439
+181.844	440
+182.063	442
+182.266	444
+182.484	447
+182.625	450
+182.844	451
+183.047	452
+183.25	451
+183.469	450
+183.672	450
+183.891	449
+184.094	449
+184.297	448
+184.516	448
+184.719	448
+184.984	447
+185.188	446
+185.406	445
+185.625	445
+185.813	445
+186.031	444
+186.234	444
+186.453	444
+186.656	444
+186.859	444
+187.078	444
+187.281	442
+187.484	440
+187.703	442
+187.906	445
+188.109	447
+188.266	448
+188.484	449
+188.688	450
+188.891	453
+189.047	456
+189.25	456
+189.516	454
+189.734	452
+190	447
+190.203	441
+190.469	437
+190.672	434
+190.891	432
+191.156	430
+191.359	429
+191.563	427
+191.781	427
+191.984	426
+192.203	425
+192.406	425
+192.609	424
+192.875	423
+193.094	423
+193.297	423
+193.5	423
+193.719	422
+193.922	422
+194.125	422
+194.344	422
+194.547	422
+194.766	422
+194.969	422
+195.172	422
+195.391	422
+195.594	422
+195.797	423
+196.016	423
+196.172	424
+196.766	492
+196.797	427
+196.969	493
+197.172	500
+197.328	503
+197.547	504
+197.75	505
+197.953	505
+198.172	506
+198.375	506
+198.578	507
+198.797	508
+199	507
+199.203	506
+199.422	506
+199.625	508
+199.844	511
+200.047	511
+200.25	511
+200.469	510
+200.672	509
+200.875	512
+201.031	516
+201.234	518
+201.453	514
+201.719	510
+201.922	512
+202.078	516
+202.281	518
+202.5	522
+202.641	526
+202.797	0
+202.859	528
+203.016	0
+203.063	530
+203.266	532
+203.422	0
+203.484	532
+203.688	532
+203.906	534
+204.047	536
+204.266	536
+204.469	538
+204.688	538
+204.891	540
+205.094	542
+205.313	544
+205.516	546
+205.672	548
+205.875	550
+206.094	554
+206.297	556
+206.453	560
+206.656	562
+206.875	566
+207.078	570
+207.234	576
+207.688	622
+207.906	624
+208.125	626
+208.328	628
+208.531	628
+208.688	632
+208.891	632
+209.109	636
+209.313	638
+209.531	640
+209.734	640
+209.938	642
+210.156	646
+210.297	656
+210.453	666
+210.672	672
+211.719	678
+211.922	672
+212.125	666
+212.609	662
+213.25	586
+213.453	586
+213.719	584
+213.938	580
+214.141	580
+214.344	580
+214.563	580
+214.703	0
+214.766	580
+214.906	0
+214.984	580
+215.188	580
+215.391	580
+215.609	580
+215.813	580
+216.031	580
+216.234	580
+216.438	580
+216.656	580
+216.859	582
+217.078	582
+217.281	582
+217.484	584
+217.703	584
+217.906	584
+218.125	584
+218.328	584
+218.453	0
+218.484	586
+218.656	0
+218.688	588
+218.875	0
+218.906	588
+219.078	0
+219.109	590
+219.313	590
+219.531	592
+219.734	592
+219.922	0
+219.953	594
+220.156	594
+220.328	0
+220.359	596
+220.578	598
+220.781	598
+220.938	600
+221.141	600
+221.359	602
+221.563	604
+221.781	612
+221.922	624
+222.078	632
+222.297	634
+222.5	636
+222.703	640
+222.922	642
+223.125	644
+223.344	644
+223.547	644
+223.75	644
+223.969	646
+224.125	648
+224.547	650
+225.203	1628
+225.703	2468
+225.969	2428
+226.172	2424
+226.406	2420
+226.594	2424
+226.813	2420
+227.016	2416
+227.219	2416
+227.438	2416
+227.641	2416
+227.859	2416
+228.063	2412
+228.281	2408
+228.484	2404
+228.688	2400
+228.906	2400
+229.109	2400
+229.328	2400
+229.531	2400
+229.75	2400
+229.953	2396
+230.156	2396
+230.375	2400
+230.578	2400
+230.797	2400
+231	2400
+231.219	2400
+231.422	2400
+231.625	2396
+231.813	0
+231.844	2396
+232.047	2400
+232.234	0
+232.266	2396
+232.438	0
+232.469	2396
+232.641	0
+232.688	2396
+232.859	0
+232.891	2396
+233.063	0
+233.094	2400
+233.266	0
+233.313	2400
+233.484	0
+233.516	2400
+233.688	0
+233.734	2396
+233.938	2396
+234.109	0
+234.156	2396
+234.313	0
+234.359	2396
+234.531	0
+234.563	2396
+234.781	2396
+234.984	2396
+235.203	2396
+235.406	2396
+235.625	2400
+235.828	2400
+236.031	2400
+236.25	2400
+236.453	2400
+236.672	2400
+236.875	2400
+237.078	2404
+237.297	2404
+237.5	2400
+237.719	2400
+238.141	2404
+238.766	2404
+240.188	1848
+240.813	1856
+240.859	2396
+241.078	2400
+241.281	2408
+241.484	2412
+241.703	2404
+241.906	2396
+242.125	2404
+242.328	2416
+242.547	2420
+242.75	2420
+242.969	2420
+243.172	2420
+243.391	2424
+243.594	2424
+243.797	2428
+244.016	2432
+244.219	2428
+244.438	2428
+244.641	2436
+244.859	2436
+245.063	2440
+245.281	2440
+245.484	2440
+245.703	2440
+245.906	2444
+246.125	2448
+246.328	2452
+246.844	0
+246.953	2452
+247.172	2252
+247.25	0
+247.438	2216
+247.469	0
+247.641	2180
+247.859	2144
+247.875	0
+248.063	2104
+248.094	0
+248.281	2072
+248.297	0
+248.5	0
+248.547	2040
+248.719	0
+248.75	2006
+248.969	1980
+249.125	0
+249.172	1952
+249.344	0
+249.609	1936
+250.063	2488
+250.266	2492
+250.484	2492
+250.688	2496
+250.891	2496
+251.109	2504
+251.313	2508
+251.531	2508
+251.734	2512
+251.953	2516
+252.156	2520
+252.375	2520
+252.578	2520
+252.797	2524
+253	2528
+253.203	2532
+253.422	2536
+253.625	2536
+253.844	2544
+254.047	2548
+254.266	2552
+254.469	2552
+254.688	2556
+254.891	2556
+255.109	2560
+255.313	2564
+255.391	0
+255.531	2568
+255.609	0
+255.734	2572
+255.938	2576
+256.156	2580
+256.359	2584
+256.578	2584
+256.781	2588
+257	2592
+257.203	2596
+257.422	2600
+257.625	2604
+257.844	2608
+258.047	2608
+258.109	0
+258.25	2620
+258.469	2628
+258.531	0
+258.672	2632
+258.734	0
+258.891	2632
+259.094	2636
+259.313	2640
+259.516	2644
+259.734	2648
+259.938	2652
+260.156	2660
+261.125	1294
+261.344	1268
+261.563	1254
+261.766	1232
+262.031	1216
+262.656	1226
+263.453	1240
+263.672	1232
+263.922	1216
+264.141	1216
+264.344	1220
+264.563	1212
+264.766	1198
+264.984	1204
+265.188	1210
+265.406	1206
+265.609	1206
+265.828	1212
+266.031	1216
+266.453	1212
+266.609	1230
+266.875	1212
+267.094	1208
+267.297	1212
+267.516	1208
+267.719	1198
+267.938	1210
+268.141	1216
+268.359	1212
+268.563	1220
+268.781	1216
+268.984	1214
+269.172	0
+269.625	1212
+269.828	1208
+270.047	1216
+270.266	1210
+270.422	0
+270.469	1212
+270.625	0
+270.703	1218
+270.891	1216
+271.047	0
+271.25	0
+271.313	1224
+271.469	0
+271.531	1224
+271.953	1218
+272.156	1218
+273.594	1030
+274.391	0
+275.484	1038
+275.703	1042
+275.922	1050
+276.125	1060
+276.766	1056
+277.313	0
+277.516	0
+278.031	1062
+279.188	0
+279.813	0
+280.438	0
+280.641	0
+280.859	0
+281.063	0
+281.141	1116
+281.266	0
+281.438	1528
+281.688	0
+281.891	0
+282.109	0
+282.313	0
+282.406	1112
+282.531	0
+282.734	0
+282.938	0
+283.031	1110
+283.156	0
+283.188	1118
+283.406	1124
+283.609	1134
+284.031	1142
+284.188	0
+284.234	1138
+284.406	0
+284.453	1136
+284.813	0
+284.859	1136
+285.031	0
+285.078	1138
+285.234	0
+285.453	0
+285.5	1144
+285.656	0
+285.703	1136
+285.922	1136
+286.078	0
+286.125	1144
+286.281	0
+286.484	0
+286.547	1144
+286.703	0
+286.75	1146
+286.906	0
+286.969	1144
+287.109	0
+287.172	1136
+287.328	0
+287.375	1134
+287.531	0
+287.594	1134
+287.734	0
+287.797	1128
+287.953	0
+288.016	1134
+288.156	0
+288.219	1142
+288.375	0
+288.438	1138
+288.578	0
+288.641	1130
+288.781	0
+288.844	1130
+289.203	0
+289.266	1130
+289.406	0
+289.484	1132
+289.688	1132
+289.828	0
+289.891	1128
+290.031	0
+290.313	1122
+290.453	0
+290.531	1118
+290.656	0
+290.734	1124
+291.156	1134
+291.703	0
+292.547	0
+293.172	0
+294.203	0
+296.922	0
+297.969	0
+298.797	0
+299.219	0
+299.422	0
+299.547	154
+299.688	155
+299.906	155
+300.172	154
+300.375	154
+300.594	154
+300.797	154
+301.016	154
+301.281	153
+301.484	153
+301.688	153
+301.906	153
+302.109	153
+302.344	153
+302.594	152
+302.797	152
+303.016	152
+303.219	152
+303.484	151
+303.688	151
+303.844	152
+304.109	151
+304.328	151
+304.531	151
+304.75	151
+304.953	151
+305.219	150
+305.422	150
+305.641	150
+305.859	150
+306.063	150
+306.266	150
+306.469	150
+306.688	150
+306.891	150
+307.219	149
+307.422	149
+307.641	149
+307.844	149
+308.063	149
+308.266	149
+308.469	149
+308.734	148
+308.953	148
+309.156	148
+309.375	148
+309.578	148
+309.797	148
+310	148
+310.203	148
+310.422	148
+310.625	148
+310.844	148
+311.109	147
+311.313	147
+311.531	147
+311.734	147
+311.953	147
+312.109	148
+312.375	147
+312.578	147
+312.797	147
+313	147
+313.219	147
+313.422	147
+313.641	147
+313.844	147
+314.109	146
+314.328	146
+314.531	146
+314.688	147
+314.953	146
+315.172	146
+315.391	146
+315.594	146
+315.813	146
+316.016	146
+316.234	146
+316.438	146
+316.656	146
+316.859	146
+317.078	146
+317.281	146
+317.5	146
+317.703	146
+317.922	146
+318.125	146
+318.344	146
+318.547	146
+318.766	146
+318.969	146
+319.188	146
+319.391	146
+319.609	146
+319.813	146
+320.031	146
+320.234	146
+320.453	146
+320.656	146
+320.875	146
+321.078	146
+321.297	146
+321.5	146
+321.719	146
+321.922	146
+322.141	146
+322.406	145
+322.609	145
+322.766	146
+322.984	146
+323.188	146
+323.406	146
+323.609	146
+323.828	146
+324.031	146
+324.25	146
+324.453	146
+324.672	146
+324.875	146
+325.094	146
+325.297	146
+325.516	146
+325.719	146
+325.938	146
+326.156	146
+326.359	146
+326.578	146
+326.781	146
+327	146
+327.203	146
+327.422	146
+327.625	146
+327.844	146
+328.047	146
+328.266	146
+328.469	146
+328.688	146
+328.891	146
+329.109	146
+329.313	146
+329.531	146
+329.734	146
+329.953	146
+330.156	146
+330.375	146
+330.578	146
+330.797	146
+331	146
+331.219	146
+331.422	146
+331.641	146
+331.844	146
+332.063	146
+332.266	146
+332.484	146
+332.688	146
+332.906	146
+333.109	146
+333.328	146
+333.531	146
+333.75	146
+333.953	146
+334.172	146
+334.375	146
+334.594	146
+334.797	146
+334.953	147
+335.156	147
+335.391	147
+335.578	147
+335.797	147
+336	147
+336.219	147
+336.422	147
+336.641	147
+336.844	147
+337.063	147
+337.266	147
+337.5	147
+337.688	147
+337.844	148
+338.047	148
+338.266	148
+338.469	148
+338.688	148
+338.906	148
+339.109	148
+339.313	148
+339.531	148
+339.734	148
+339.953	148
+340.109	149
+340.313	149
+340.516	149
+340.734	149
+340.938	149
+341.156	149
+341.359	149
+341.578	149
+341.781	149
+342	149
+342.203	149
+342.313	150
+342.516	150
+342.734	150
+342.938	150
+343.141	150
+343.359	150
+343.563	150
+343.781	150
+343.984	150
+344.203	150
+344.406	150
+344.563	151
+344.781	151
+344.984	151
+345.203	151
+345.406	151
+345.625	151
+345.828	151
+345.984	152
+346.188	152
+346.406	152
+346.609	152
+346.828	152
+347.031	152
+347.188	153
+347.406	153
+347.609	153
+347.828	153
+348.047	153
+348.188	154
+348.391	154
+348.609	154
+348.813	154
+348.969	155
+349.188	155
+349.391	155
+349.609	155
+349.813	155
+349.969	156
+350.172	156
+350.328	157
+350.547	157
+350.75	157
+350.906	158
+351.125	158
+351.188	0
+351.391	0
+351.609	0
+351.813	0
+352.016	0
+352.234	0
+352.438	0
+352.641	0
+352.859	0
+353.063	0
+353.266	0
+353.484	0
+353.688	0
+353.891	0
+354.281	158
+354.438	159
+354.594	160
+354.75	161
+354.906	162
+355.047	163
+355.266	163
+355.469	163
+355.688	163
+355.844	164
+356.047	164
+356.266	164
+356.484	165
+356.688	165
+356.891	165
+357.156	163
+357.484	161
+357.656	0
+358.078	158
+358.078	0
+358.281	0
+358.484	0
+358.703	0
+358.906	0
+359.109	0
+359.328	0
+359.531	0
+359.734	0

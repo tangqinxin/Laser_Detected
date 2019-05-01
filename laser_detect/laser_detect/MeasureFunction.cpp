@@ -28,12 +28,11 @@ using namespace rp::standalone::rplidar;
 
 #include "HEAD.h"
 
-
+/* new_display()函数主要是打印数据和输出数据到DATA.TXT文件*/
 u_result new_display(RPlidarDriver * drv)
 {
 	//2019-4-21添加的代码
 	std::ofstream OutFile("DATA.txt");
-
 
 	u_result ans;
 
@@ -55,37 +54,16 @@ u_result new_display(RPlidarDriver * drv)
 					(nodes[pos].sync_quality & RPLIDAR_RESP_MEASUREMENT_SYNCBIT) ? "S " : "  ",
 					(nodes[pos].angle_q6_checkbit >> RPLIDAR_RESP_MEASUREMENT_ANGLE_SHIFT) / 64.0f,
 					nodes[pos].distance_q2 / 4.0f);
-				OutFile << "theta: " << (nodes[pos].angle_q6_checkbit >> RPLIDAR_RESP_MEASUREMENT_ANGLE_SHIFT) / 64.0f
-					<< "\t distance:" << nodes[pos].distance_q2 / 4.0f << std::endl;
+				OutFile << (nodes[pos].angle_q6_checkbit >> RPLIDAR_RESP_MEASUREMENT_ANGLE_SHIFT) / 64.0f
+					<< "\t" << nodes[pos].distance_q2 / 4.0f << std::endl;
 			}
-			//
-			std::cout << "the number of points of total data: " << (int)count << std::endl;//此处添加了1行，帮助说明一共有多少个点	
-																						   //进行角度判断与距离判断
-																						   //以下利用了switch来进行情况的选择
-			std::cout << "输入a,b,c来进行case选择\n";
-			std::cout << "a.筛选角度和距离\n";
-			std::cout << "b.筛选距离\n";
-			std::cout << "c.筛选角度\n";
-			char ch;
-			std::cin >> ch;
-			switch (ch) {
-			case'a':
-				sort_data(nodes, (int)count, true, true);
-				break;
-			case'b':
-				sort_data(nodes, (int)count, false, true);
-				break;
-			case'c':
-				sort_data(nodes, (int)count, true, false);
-				break;
-			}
-
 		}
 	}
 	else {
 		printf("error code: %x\n", ans);
 	}
-
+	//关闭文档
+	OutFile.close();
 	return ans;
 }
 
@@ -163,6 +141,39 @@ bool sort_float_bool(float data, float min, float max) {
 	if (data >= min&& data <= max) {
 		return true;
 	}
+	else
+		return false;
+}
+
+/*2019-4-30 这一部分添加的是针对vec_lp向量的处理函数*/
+bool Fill_laser_pos(laser_pos& lp) {
+	std::cin >> lp.theta;
+	std::cin >> lp.dist;
+	return true;
+}
+
+void Show_laser_pos(const laser_pos& lp) {
+	std::cout << lp.theta << "\t\t" << lp.dist << std::endl;
+}
+
+
+
+/*这一部分的作用是输入最小角度和最大角度*/
+void Case_Choose(float& ang_min, float& ang_max, float& dist_min, float& dist_max) {
+	std::cout << "输入最小角度\n"; 
+	std::cin >> ang_min;
+	std::cout << "输入最大角度\n";
+	std::cin >> ang_max;
+	std::cout << "输入最小距离\n";
+	std::cin >> dist_min;
+	std::cout << "输入最大距离\n";
+	std::cin >> dist_max;
+	std::cin.get();
+}
+
+bool Select_vec_lp(const laser_pos& lp, float ang_min ,float ang_max ,float dist_min, float dist_max) {
+	if (lp.theta > ang_min&&lp.theta < ang_max&&lp.dist<dist_max&&lp.dist>dist_min)
+		return true;
 	else
 		return false;
 }
