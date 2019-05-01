@@ -3,12 +3,14 @@ d:\githubdata\laser_detected\sdk\include\rplidar_protocol.h(59): warning C4200: 
   d:\githubdata\laser_detected\sdk\include\rplidar_protocol.h(59): note: 默认构造函数或 copy/move 赋值运算符将忽略此成员
 d:\githubdata\laser_detected\sdk\include\rplidar_cmd.h(244): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
   d:\githubdata\laser_detected\sdk\include\rplidar_cmd.h(244): note: 默认构造函数或 copy/move 赋值运算符将忽略此成员
-main.cpp(120): warning C4996: 'rp::standalone::rplidar::RPlidarDriver::grabScanData': 被声明为已否决
+main.cpp(127): warning C4996: 'rp::standalone::rplidar::RPlidarDriver::grabScanData': 被声明为已否决
   d:\githubdata\laser_detected\sdk\include\rplidar_driver.h(256): note: 参见“rp::standalone::rplidar::RPlidarDriver::grabScanData”的声明
-main.cpp(122): warning C4996: 'rp::standalone::rplidar::RPlidarDriver::ascendScanData': 被声明为已否决
+main.cpp(129): warning C4996: 'rp::standalone::rplidar::RPlidarDriver::ascendScanData': 被声明为已否决
   d:\githubdata\laser_detected\sdk\include\rplidar_driver.h(284): note: 参见“rp::standalone::rplidar::RPlidarDriver::ascendScanData”的声明
   正在生成代码
-  All 389 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 956 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   laser_detect.vcxproj -> D:\GithubData\Laser_Detected\laser_detect\Release\laser_detect.exe
   laser_detect.vcxproj -> D:\GithubData\Laser_Detected\laser_detect\Release\laser_detect.pdb (Full PDB)

@@ -26,8 +26,12 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <fstream>
+#include "HEAD.h"
 
 #include "rplidar.h" //RPLIDAR standard sdk, all-in-one header
+
+
 
 
 #ifndef _countof
@@ -50,6 +54,9 @@ static inline void delay(_word_size_t ms) {
 #endif
 
 using namespace rp::standalone::rplidar;
+
+//my funtion prototype
+u_result new_display(RPlidarDriver * drv);
 
 void print_usage(int argc, const char * argv[])
 {
@@ -244,7 +251,7 @@ int main(int argc, const char * argv[]) {
 			break;
 		}
 
-		if (IS_FAIL(capture_and_display(drv))) {
+		if (IS_FAIL(new_display(drv))) {
 			fprintf(stderr, "Error, cannot grab scan data.\n");
 			break;
 
@@ -254,8 +261,55 @@ int main(int argc, const char * argv[]) {
 
 	drv->stop();
 	drv->stopMotor();
-	//system("PAUSE ");
 	RPlidarDriver::DisposeDriver(drv);
+
+	/*2019-4-30添加，读取DATA.TXT文件并且进行筛选，产生Select_Resualt.txt文件*/
+	/*这里要做的事情是1.将DATA.TXT数据全部读入向量vec_lp中，然后要写一个函数，对vec_lp进行处理(输入为vec_lp向量)，
+	处理的结果是筛选出需要的三种处理情况，然后进行筛选(返回一个筛选后的多维vec_lp向量）*/
+	/*
+	std::fstream file("DATA.txt", std::ios::out);
+	std::fstream file("SelectResult.txt", std::ios::out);
+	*/
+	
+	std::ifstream InFile;
+	InFile.open("DATA.txt");
+	laser_pos temp;
+	vector<laser_pos> vec_lp;
+	/*将DATA.TXT数据读入到vec_lp中，由于DATA.TXT里面有英文字符，所以这里需要跳过一部分的英文文本，
+	或者将原来的MeasureFunction中的文件进行修改，使得输出的文件格式更加简单*/
+
+	while (!InFile.eof()) {
+		InFile >> temp.theta;
+		InFile >> temp.dist;
+		vec_lp.push_back(temp);
+	}
+	InFile.close();
+	/*读取筛选数据的要求*/
+	float ang_min;
+	float ang_max;
+	float dist_min;
+	float dist_max;
+	Case_Choose(ang_min, ang_max, dist_min, dist_max);
+	/*根据读取数据范围进行筛选,和写出数据到OutFile中，写出的文件为SelectResult.txt*/
+	std::ofstream OutFile;
+	OutFile.open("SelectResult.txt");
+	vector<laser_pos>::iterator lpiter;
+	vector<laser_pos> Output_vec;//新建一个向量用于存储筛选结果并输出
+								 /*此处用于筛选向量内容*/
+	for (lpiter = vec_lp.begin(); lpiter != vec_lp.end(); lpiter++) {
+		if (Select_vec_lp(*lpiter, ang_min, ang_max, dist_min, dist_max) == true) {
+			Output_vec.push_back(*lpiter);
+		}
+	}
+	/*此处用于输出结果*/
+	std::cout << "现在开始输出筛选结果.......\n";
+	for (lpiter = Output_vec.begin(); lpiter != Output_vec.end(); lpiter++) {
+		OutFile << lpiter->theta << "\t" << lpiter->dist << "\n";
+		std::cout<< lpiter->theta << "\t\t" << lpiter->dist << "\n";
+	}
+	OutFile.close();
+
 	system("pause");
 	return 0;
 }
+
